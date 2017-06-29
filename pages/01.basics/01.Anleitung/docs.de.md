@@ -56,6 +56,11 @@ odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac 
 <br>
 <br>
 
-Wenn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet:<br><br>
+<p class="alert alert-success">enn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet:</p>
 
->>>> **Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt!
+
+
+>>>> **Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt
+>>>> 
+
+
