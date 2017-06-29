@@ -1,6 +1,9 @@
 ---
 title: Einstieg
 published: true
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
