@@ -1,5 +1,5 @@
 ---
-title: 'Basics 2'
+title: WIN7
 taxonomy:
     category:
         - docs
