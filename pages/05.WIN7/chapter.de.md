@@ -1,7 +1,8 @@
 ---
 title: 'Basics 2'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
