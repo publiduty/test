@@ -20,7 +20,7 @@ Auf jeder Postenseite finden SIe farbig gekennzeichnete Hilfsmittel:
 
 !!!! **Hilfsmittel:** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
 
-!! **Auftrag:** Wählen Sie nun Ihr Betriebssystem und beginnen Sie mit der Werkstatt!
+!! **Auftrag:** Wählen Sie nun Ihr Betriebssystem in der Navigation auf der linken Seite und beginnen Sie mit der Werkstatt!
 
 
 
