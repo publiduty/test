@@ -6,8 +6,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Werkstatt
 
-# Basics
+# Windows 7
 
 Discover the **basic** principles
