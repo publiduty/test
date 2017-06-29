@@ -10,4 +10,4 @@ child_type: docs
 
 # Windows 7
 
-Entdecken Sie die **wichtigen** Grundlagen!
+Entdecken Sie **wichtige** Grundlagen!
