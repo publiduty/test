@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-Sie arbeiten in der Schule mit einem Notebook, das Sie selber mitgebracht haben. Das Notebook soll den Unterricht effizienter machen und neue Mˆglichkeiten erˆffnen. Das funktioniert aber nur, wenn Sie Ihr Ger‰t beherrschen. Nat¸rlich bringen Sie bereits Wissen und Kˆnnen mit. Aber nicht alle Lernenden bringen gleich viel. Um vom Notebook im Unterricht profitieren zu kˆnnen, werden Sie in dieser Lernumgebung das nˆtige Wissen und Kˆnnen aufbauen. <br><br>
+Sie arbeiten in der Schule mit einem Notebook, das Sie selber mitgebracht haben. Das Notebook soll den Unterricht effizienter machen und neue Mˆglichkeiten erˆffnen. Das funktioniert aber nur, wenn Sie Ihr Ger‰t beherrschen. Nat¸rlich bringen Sie bereits Wissen und Kˆnnen mit. Aber nicht alle Lernenden bringen gleich viel. Um vom Notebook im Unterricht profitieren zu kˆnnen, werden Sie in dieser Lernumgebung das nˆtige Wissen und Kˆnnen aufbauen. 
 
 '''Arbeitsweise'''<br>
 Sie lernen nur dort, wo Sie L¸cken haben und ¸bergehen das, was Sie bereits wissen und kˆnnen. '''Achtung:''' Der Mensch neigt nat¸rlicherweise zur Selbst¸bersch‰tzung. Gehen Sie nicht leichtfertig ¸ber Posten hinweg. Sie m¸ssen alle Nachweise erbringen, also auch die Nachweise der Posten, die Sie nicht vollst‰ndig bearbeiten.<br><br>
