@@ -17,6 +17,9 @@ Sie kˆnnen mit dem Link ''Startseite'' oben rechts zur Startseite mit der Poste
 '''Die Posten'''<br>
 Auf jeder Postenseite finden Sie gleich nach dem Titel die Ziele und allenfalls die Hilfsmittel:<br>
 
+>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+
 >>>>> Ziel Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
 
 >>>>>> Hilfsmittel In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
