@@ -19,7 +19,7 @@ Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
 
 Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem wieder zum funktionieren bringen, wenn es beschädigt wurde.
 
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur Aufgabe 2!
+!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
 
 
