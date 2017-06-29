@@ -1,5 +1,5 @@
 ---
-title: Anleitung
+title: Einführung
 taxonomy:
     category:
         - docs
@@ -24,6 +24,58 @@ Auf jeder Postenseite finden Sie gleich nach dem Titel die Ziele und allenfalls 
 >>>>> **Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
 
 >>>>>> **Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
+
+### Yellow
+
+```markdown
+>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+```
+
+Renders to:
+
+>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+
+### Red
+
+```markdown
+>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+```
+
+Renders to:
+
+>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+
+### Blue
+
+```markdown
+>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+```
+
+Renders to:
+
+>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+
+### Green
+
+```markdown
+>>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+```
+
+Renders to:
+
+>>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
+odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
+
+<br>
+<br>
+<br>
 
 Wenn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet:<br><br>
 
