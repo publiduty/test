@@ -17,52 +17,12 @@ Sie kˆnnen mit dem Link ''Startseite'' oben rechts zur Startseite mit der Poste
 **Die Posten**
 Auf jeder Postenseite finden Sie gleich nach dem Titel die Ziele und allenfalls die Hilfsmittel:
 
->>>>> **Ziel** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
-##### Ziel
->>>> **Ziel:** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
-##### Hilfsmittel
->>>>> **Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
+**Ziel** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
 
-##### Yellow
+**Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
 
->>>>>> **Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt
-
-##### Yellow
-
->>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-
-### Red
-
->>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-
-### Blue
-
-```markdown
->>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-```
-
-Renders to:
-
->>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-
-### Green
-
->>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-
-<br>
-<br>
-<br>
-
-Wenn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet
+**Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt!
 
 
-
->>>> **Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt
->>>> 
 
 
