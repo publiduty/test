@@ -22,12 +22,6 @@ Sie haben nun vier Einstellungsmöglichkeiten. Die oberste ist standardmässig e
 
 Zur Unterstützung können Sie dazu auch folgendes Video ansehen:[https://www.youtube.com/watch?v=h-aykEH96lA|Windows7/8: Automatische Updates abschalten
 
-[[Bild:auftrag.png|left]]<br>Entscheiden Sie sich f¸r eine Einstellung und begr¸nden Sie die Entscheidung m¸ndlich Ihrer Lehrperson!
-
-
-----
-<-[[Recovery Win7|3 Recovery erstellen]] / [[Posten¸bersicht]] / [[Schreibtisch Win7|5 Schreibtisch organisieren]] ->
-
 !! **Auftrag:** Entscheiden Sie sich für eine Einstellung, tragen Sie die Bründung im Arbeitsblatt ein und gehen Sie zur nächsten Aufgabe!
 
 
