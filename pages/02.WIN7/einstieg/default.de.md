@@ -3,9 +3,9 @@ title: Einstieg
 visible: true
 ---
 
+<head>
 <!DOCTYPE html>
 <html lang="de">
-<head>
 <meta charset="utf-8">
 </head>
 ====<br><br>Ziel: Sie kˆnnen ein besch‰digtes Betriebssystem neu aufsetzen und besitzen die dazu notwenigen Daten<br><br>====
