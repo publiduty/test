@@ -56,7 +56,7 @@ odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac 
 <br>
 <br>
 
-<p class="alert alert-success">enn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet:</p>
+Wenn Sie einen Auftrag ausf¸hren m¸ssen, dann erkennen Sie das an diesem Signet
 
 
 
