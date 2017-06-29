@@ -19,16 +19,9 @@ Auf jeder Postenseite finden Sie gleich nach dem Titel die Ziele und allenfalls 
  
 !!! **Ziel** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
 
-**Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
+!!!! **Hilfsmittel** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgef¸hrt. Sie m¸ssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
 
-**Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt!>>>>
-
-
-    <p>
-**Ziel** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter und fokussierter arbeiten!
-    </p>
-</div>
-
+!! **Auftrag** Wählen SIe nun Ihr Betriebssystem und beginen Sie mit der Werkstatt!
 
 
 
