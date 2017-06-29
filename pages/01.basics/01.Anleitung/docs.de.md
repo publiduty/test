@@ -49,13 +49,6 @@ odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac 
 
 ### Green
 
-```markdown
->>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
-odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
-```
-
-Renders to:
-
 >>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 
