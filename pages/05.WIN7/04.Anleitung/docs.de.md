@@ -1,25 +1,34 @@
 ---
-title: '1 Betriebssystem Win8'
+title: Updates
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Sie können Updates manuell steuern und können so Arbeitsstörungen im Unterricht und Zuhause vorbeugen.<br>
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu werden von den jeweiligen Anbietern (Microsoft, Apple, ..) Systemupdates bereit gestellt. Bei Computer mit Windows Betriebssystem werden Updates mindestens wöchentlich bereit gestellt. Diese werden - wenn man die Einstellungen nicht verändert - automatisch heruntergeladen und installiert. Während der Installation können Sie den Computer nicht nutzen. Das ist im Unterricht oder während der Zeit, die Sie für die Hausaufgaben reserviert haben, sehr ärgerlich. Hingegen stört es nicht beim Schlafen. Es ist also hilfreich, wenn Sie in der Lage sind, den Zeitpunkt der Updates selber zu bestimmen. Dazu müssen Sie aber die Standard-Einstellungen ändern:
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+Klicken Sie sich bis zur Update-Einstellung durch:
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem wieder zum funktionieren bringen, wenn es beschädigt wurde.
+Systemeinstellungen > Windows Update > Einstellungen ändern
 
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur Aufgabe 2!
+Sie haben nun vier Einstellungsmöglichkeiten. Die oberste ist standardmässig eingestellt und stört. Die letzte sollten Sie nicht wählen, weil Sie sonst bald Probleme mit Viren, nicht lesbaren Dateien, nicht kompatiblen Geräten, u.s.w., bekommen.<br>
+
+*Updates automatisch installieren (empfohlen)
+*Updates herunterladen, aber Installation manuell durchführen
+*Nach Update suchen, aber Zeitpunkt zum Herunterladen und Installieren manuell festlegen
+*Nie nach Updates suchen (nicht empfohlen)<br>
+
+Zur Unterstützung können Sie dazu auch folgendes Video ansehen:[https://www.youtube.com/watch?v=h-aykEH96lA|Windows7/8: Automatische Updates abschalten
+
+[[Bild:auftrag.png|left]]<br>Entscheiden Sie sich f¸r eine Einstellung und begr¸nden Sie die Entscheidung m¸ndlich Ihrer Lehrperson!
+
+
+----
+<-[[Recovery Win7|3 Recovery erstellen]] / [[Posten¸bersicht]] / [[Schreibtisch Win7|5 Schreibtisch organisieren]] ->
+
+!! **Auftrag:** Entscheiden Sie sich für eine Einstellung, tragen Sie die Bründung im Arbeitsblatt ein und gehen Sie zur nächsten Aufgabe!
 
 
 
