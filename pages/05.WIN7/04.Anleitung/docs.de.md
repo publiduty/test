@@ -15,10 +15,10 @@ Systemeinstellungen > Windows Update > Einstellungen ändern
 
 Sie haben nun vier Einstellungsmöglichkeiten. Die oberste ist standardmässig eingestellt und stört. Die letzte sollten Sie nicht wählen, weil Sie sonst bald Probleme mit Viren, nicht lesbaren Dateien, nicht kompatiblen Geräten, u.s.w., bekommen.<br>
 
-*Updates automatisch installieren (empfohlen)
-*Updates herunterladen, aber Installation manuell durchführen
-*Nach Update suchen, aber Zeitpunkt zum Herunterladen und Installieren manuell festlegen
-*Nie nach Updates suchen (nicht empfohlen)<br>
+Updates automatisch installieren (empfohlen)<br>
+Updates herunterladen, aber Installation manuell durchführen<br>
+Nach Update suchen, aber Zeitpunkt zum Herunterladen und Installieren manuell festlegen<br>
+Nie nach Updates suchen (nicht empfohlen)<br>
 
 Zur Unterstützung können Sie dazu auch folgendes Video ansehen:[https://www.youtube.com/watch?v=h-aykEH96lA|Windows7/8: Automatische Updates abschalten
 
