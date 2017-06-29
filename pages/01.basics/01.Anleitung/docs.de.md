@@ -46,8 +46,14 @@ odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac 
 >>>>>> Sed adipiscing elit vitae augue consectetur a gravida nunc vehicula. Donec auctor
 odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac eu diam.
 
-
-
+<div class="notices yellow">
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat quam erat, ut iaculis diam posuere nec.
+        Vestibulum eu condimentum urna. Vestibulum feugiat odio ut sodales porta. Donec sit amet ante mi. Donec lobortis
+        orci dolor. Donec tristique volutpat ultricies. Nullam tempus, enim sit amet fringilla facilisis, ipsum ex
+        tincidunt ipsum, vel placerat sem sem vitae risus. Aenean posuere sed purus nec pretium.
+    </p>
+</div>
 
 
 
