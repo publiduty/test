@@ -17,7 +17,7 @@ Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät h
 
 Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem wieder zum funktionieren bringen, wenn es beschädigt wurde.
+Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
 
 !! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
