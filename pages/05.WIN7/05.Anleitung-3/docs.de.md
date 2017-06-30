@@ -1,25 +1,26 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Recovery Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Wenn das Betriebssystem ausfällt, dann kann man mit dem Computer nicht mehr arbeiten. Darum ist es wichtig zu wissen, wie man ein Betriebssystem reparieren kann, wenn es kaputt ist.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+**Reparatur-Stick oder Reparatur-CD erstellen (Recovery)**
+Am sichersten ist das Wiederherstellen des Betriebssystems mit einer Wiederherstellungs-CD/DVD oder einem Wiederherstellungsstick. CD und DVD können Sie bei der Lehrperson beziehen. Einen Stick müssen Sie selber kaufen. Um CD/DVD oder Stick für eine allfällige Systemreparatur bereit zu machen, müssen Sie folgende Schritte durchlaufen:<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+**CD erstellen Windows 7**
+Klicken Sie auf den Start-Button (unten links) und geben Sie *Systemreparaturdatenträger* ins Suchfeld ein. Klicken Sie dann auf *Systemreparaturdatenträger erstellen* und folgen sie den Anweisungen. Irgendwann werden Sie aufgefordert eine CD, eine DVD oder einen Stick einzulegen.<br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem wieder zum funktionieren bringen, wenn es beschädigt wurde.
+!! **Auftrag:** Erstellen Sie eine Recovery CD und zeigen Sie diese der Lehrperson!
 
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
+Die RecoveryCD/DVD oder der Recovery-Stick müssen Sie aufbewahren. Damit können Sie ein beschädigtes oder verseuchtes Betriebssystem so reparieren:
+*Schalten sie den Computer ein, legen Sie die Windows-Installations-CD oder -DVD ein und starten Sie dann den Computer neu.<br>
+*Halten Sie bei Windows die Taste F2 und bei Mac die tasten ''cmd'' und ''R'' gedrückt und folgenden Sie den angezeigten Anweisungen.<br>
+*Klicken Sie auf der Seite ''Windows installieren'' auf ''Jetzt installieren'', um mit dem Installationsprozess zu beginnen, oder klicken Sie auf Computer reparieren, um die Systemwiederherstellungsoptionen anzuzeigen.<br>
+*Folgen Sie den Anweisungen.<br>
+Die Daten und Programme sind allerdings dann nicht mehr vorhanden. Sie müssen diese von einem Backup wiederherstellen. Je nach Version kann das Vorgehen stark von diesen Anleitungen abweichen.<br>
 
 
 
