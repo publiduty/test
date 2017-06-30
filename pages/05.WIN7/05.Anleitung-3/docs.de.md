@@ -19,7 +19,7 @@ Die RecoveryCD/DVD oder der Recovery-Stick müssen Sie aufbewahren. Damit könne
 *Schalten sie den Computer ein, legen Sie die Windows-Installations-CD oder -DVD ein und starten Sie dann den Computer neu.<br>
 *Halten Sie bei Windows die Taste F2 und bei Mac die tasten ''cmd'' und ''R'' gedrückt und folgenden Sie den angezeigten Anweisungen.<br>
 *Klicken Sie auf der Seite ''Windows installieren'' auf ''Jetzt installieren'', um mit dem Installationsprozess zu beginnen, oder klicken Sie auf Computer reparieren, um die Systemwiederherstellungsoptionen anzuzeigen.<br>
-*Folgen Sie den Anweisungen.<br>
+Folgen Sie den Anweisungen.<br>
 Die Daten und Programme sind allerdings dann nicht mehr vorhanden. Sie müssen diese von einem Backup wiederherstellen. Je nach Version kann das Vorgehen stark von diesen Anleitungen abweichen.<br>
 
 
