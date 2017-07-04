@@ -16,7 +16,7 @@ Alle bisher genannten Browser bieten Lesezeichen-Funktionen an. Lesezeichen sind
 Lernen Sie mit den folgenden Videos, wie Lesezeichen in Ihrem Browser angelegt werden!<br><br>
 Firefox: [Firefox, Favoriten und Lesezeichen Symbolleiste optimaleinsetzen](https://www.youtube.com/watch?v=hol0H9hICrg|) <br>
 Google Chrome: [Chrome - Lesezeichen setzen](https://www.youtube.com/watch?v=QS4xEEwesj4|Google)<br>
-Internet Explorer: [Internet Explorer: Lesezeichen (Favoriten) anlegen] https://www.youtube.com/watch?v=jboLpnKXhUg|<br>
+Internet Explorer: [Internet Explorer: Lesezeichen (Favoriten) anlegen](https://www.youtube.com/watch?v=jboLpnKXhUg|)<br>
 
 !! **Auftrag:** Setzen Sie eine eigene Startseite und legen Sie einige Lesezeichen an! Zeigen Sie beides Ihrer Lehrperson!
 
