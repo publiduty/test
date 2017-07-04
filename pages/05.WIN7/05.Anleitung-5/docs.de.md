@@ -1,25 +1,24 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Browser Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Ziel: Sie können durch Startseiten und Lesezeichen das Arbeiten mit Ihrem Browser effizienter gestalten.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+**Was ist ein Browser?**
+Ein Browser ist ein Programm. Dieses Programm kann Daten auf einem Server abrufen und diese darstellen. Wo die Daten genau liegen, muss man dem Browser aber zuerst bekannt geben. Dazu hat jeder Browser eine Adresszeile. Man gibt zum Beispiel www.gibb.ch in die Adresszeile ein. Dann holt sich der Browser die Daten auf dem entsprechenden Server und stellt diese als Webseite dar. Sie benutzen oft einen Browser. Zum Beispiel gerade jetzt. Ihr Browser hat auf dem Server von Educanet^^2^^ die Daten geholt um diesen Posten darzustellen.
+Die am meisten verbreiteten Browser sind Firefox, Google Chrome, Safari und Internet Explorer. Einen dieser Browser verwenden Sie sehr wahrscheinlich gerade.<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+**Browser einrichten - Lesezeichen**<br>
+Alle bisher genannten Browser bieten Lesezeichen-Funktionen an. Lesezeichen sind Links zu Webseiten. Sinnvollerweise legt man Leszeichen an für Webseiten, die man oft braucht. Zum Beispiel ein Lesezeichen zu den Wetterprognosen, den man regelmässig anguckt. Man kann die Lesezeichen strukturieren. Zum Beispiel macht es Sinn alle Lesezeichen zu Clubs in der Stadt in einem Lesezeichen-Ordner abzulegen. Und alle Lesezeichen zu einem Hobby in einem anderen Ordner.<br>
+Lernen Sie mit den folgenden Videos, wie Lesezeichen in Ihrem Browser angelegt werden!<br><br>
+Firefox: [https://www.youtube.com/watch?v=hol0H9hICrg| Firefox, Favoriten und Lesezeichen Symbolleiste optimal einsetzen]<br>
+Google Chrome: [https://www.youtube.com/watch?v=QS4xEEwesj4|Google Chrome - Lesezeichen setzen]<br>
+Internet Explorer: [https://www.youtube.com/watch?v=jboLpnKXhUg| Internet Explorer: Lesezeichen (Favoriten) anlegen]<br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
-
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
+!! **Auftrag:** Setzen Sie eine eigene Startseite und legen Sie einige Lesezeichen an! Zeigen Sie beides Ihrer Lehrperson!
 
 
 
