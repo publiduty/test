@@ -1,23 +1,28 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Programme Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Sie kˆnnen kˆnnen Programme korrekt installieren und deinstallieren.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+**Was machen Programme?**<br>
+Programme verändern Daten nach unseren Wünschen. Man kann Programme auf CD/DVD erwerben oder auf einer Webseite eines Programm-Herstellers herunterladen. Es gibt zudem Freeware-Plattformen wie z.B. [Softonic](www.softonic.de), [ Chip](www.chip.de) und viele andere, die Gratisprogramme sammeln, bewerten und zum Download anbieten. <br> Es ist wichtig, dass Sie wissen, wo das eigene Gerät die Programme speichert.
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
+!! **Auftrag:** Öffnen Sie den Explorer (Windows) oder den Finder (Mac) und suchen Sie den Ordner, in dem Programme gespeichert sind und auch alle Programme gespeichert werden sollen, die Sie zukünftig herunterladen. <br>
+Bei Windows sind die Programme in der Regel in folgendem Ordner gespeichert -> C:\Program File oder C:\Programme. <br>
+Mac speichert die Programme im Ordner Programme<br><br>
+
+**Installieren und Deinstallieren**<br>
+Sehen Sie sich folgendes Video an, um zu lernen, wie man Programme installiert und deinstalliert:
+Programm deinstallieren: [Windows 7: Tutorial Programme deinstallieren und lˆschen](http://www.youtube.com/watch?v=dg8b5A_jHdM)<br>
+
+!! **Auftrag:** Installieren Sie das Programm ''WebWeaver Desktop" auf Ihrem Notebook. Mit diesem Programm kˆnnen Sie die Dateiverwaltung auf dem Educanet2 massiv vereinfachen. Hier gehts zum: [https://www.educanet2.ch/wws/20.php?open_link=25493508&open_group=&open=&sid=5321566612069707634145698577522197787538967103| Download]<br>
+Nach dem Download installieren Sie das Programm und loggen sich ein. Zeigen Sie der Lehrperson das geˆffnete Programm im eingeloggten Zustand.<br><br>
+Wenn Sie Probleme haben beim Einloggen, dann finden Sie [https://www.educanet2.ch/wws/399297.php?sid=53215666120697076341456985780740| hier] Hilfe. Speziell die Anleitung ''Erster Start'' ist sehr hilfreich.
+
 
 !! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
