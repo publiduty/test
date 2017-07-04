@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können einen Virenschutz installieren.
+!!! **Ziel:** Sie können einen Virenschutz installieren.
 
 **Was sind Viren**<br>
 Viren sind Programme, die dem Computer oder dem Benutzer schaden. Normalerweise haben Viren die Fähigkeit, sich selber in einem Netzwerk und im Internet zu verbreiten. Dies geschieht zum Beispiel über Mails. Viren können Hardware schädigen und zerstören, Dateien unbrauchbar machen oder den Computer missbrauchen, zum Beispiel als Basis für Hackerangriffe auf weitere Rechner.<br><br>
