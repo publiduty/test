@@ -8,13 +8,13 @@ taxonomy:
 !!! **Ziel:** Ziel: Sie können durch Startseiten und Lesezeichen das Arbeiten mit Ihrem Browser effizienter gestalten.
 
 **Was ist ein Browser?**
-Ein Browser ist ein Programm. Dieses Programm kann Daten auf einem Server abrufen und diese darstellen. Wo die Daten genau liegen, muss man dem Browser aber zuerst bekannt geben. Dazu hat jeder Browser eine Adresszeile. Man gibt zum Beispiel www.gibb.ch in die Adresszeile ein. Dann holt sich der Browser die Daten auf dem entsprechenden Server und stellt diese als Webseite dar. Sie benutzen oft einen Browser. Zum Beispiel gerade jetzt. Ihr Browser hat auf dem Server von Educanet^^2^^ die Daten geholt um diesen Posten darzustellen.
+Ein Browser ist ein Programm. Dieses Programm kann Daten auf einem Server abrufen und diese darstellen. Wo die Daten genau liegen, muss man dem Browser aber zuerst bekannt geben. Dazu hat jeder Browser eine Adresszeile. Man gibt zum Beispiel [www.idm.ch] in die Adresszeile ein. Dann holt sich der Browser die Daten auf dem entsprechenden Server und stellt diese als Webseite dar. Sie benutzen oft einen Browser. Zum Beispiel gerade jetzt. Ihr Browser hat auf dem Server von Educanet^^2^^ die Daten geholt um diesen Posten darzustellen.
 Die am meisten verbreiteten Browser sind Firefox, Google Chrome, Safari und Internet Explorer. Einen dieser Browser verwenden Sie sehr wahrscheinlich gerade.<br>
 
 **Browser einrichten - Lesezeichen**<br>
 Alle bisher genannten Browser bieten Lesezeichen-Funktionen an. Lesezeichen sind Links zu Webseiten. Sinnvollerweise legt man Leszeichen an für Webseiten, die man oft braucht. Zum Beispiel ein Lesezeichen zu den Wetterprognosen, den man regelmässig anguckt. Man kann die Lesezeichen strukturieren. Zum Beispiel macht es Sinn alle Lesezeichen zu Clubs in der Stadt in einem Lesezeichen-Ordner abzulegen. Und alle Lesezeichen zu einem Hobby in einem anderen Ordner.<br>
 Lernen Sie mit den folgenden Videos, wie Lesezeichen in Ihrem Browser angelegt werden!<br><br>
-Firefox: [https://www.youtube.com/watch?v=hol0H9hICrg| Firefox, Favoriten und Lesezeichen Symbolleiste optimal einsetzen]<br>
+Firefox: [Firefox, Favoriten und Lesezeichen Symbolleiste optimaleinsetzen](https://www.youtube.com/watch?v=hol0H9hICrg|) <br>
 Google Chrome: [https://www.youtube.com/watch?v=QS4xEEwesj4|Google Chrome - Lesezeichen setzen]<br>
 Internet Explorer: [https://www.youtube.com/watch?v=jboLpnKXhUg| Internet Explorer: Lesezeichen (Favoriten) anlegen]<br>
 
