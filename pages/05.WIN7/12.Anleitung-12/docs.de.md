@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können Vorteile und Nachteile verschiedener Speichermedien nennen.<br>- Sie können die eigenen Speichermedien nennen. <br>Sie können Datenträger umformatieren.
+!!! **Ziel:** Sie können Vorteile und Nachteile verschiedener Speichermedien nennen.<br>Sie können die eigenen Speichermedien nennen. <br>Sie können Datenträger umformatieren.
 **Warum eigentlich Speichermedien**<br>
 Wenn wir mit einem Computer arbeiten, dann verändern wir Daten. Das ist alles. Aus einer Fläche mit weissen Punkten machen Sie eine Fläche mit weissen und schwarzen Punkten, wenn zum Beispiel mit dem Programm Word geschrieben wird. Wenn wir diese Daten nicht speichern kˆönnen, dann verlieren wir sie spätestens, wenn wir den Computer ausschalten. Bei den einfachen Taschenrechnern funktioniert das auch so. Wenn man den Taschenrechner ausschaltet, dann vergisst er alles. Aber da hat man in der Regel das Resultat auf Papier festgehalten, wenn man den Taschenrechner abschaltet. <br>
 Zum Speichern gibt es verschiedene Speichermedien mit Vor- und Nachteilen. Einige sind fest in einem Computer verbaut, andere sind auswechselbar und besser oder schlechter transportierbar. Unten finden Sie Informationen zu den wichtigsten Speichermedien und anschliessend zu den Formatierungen.<br><br>
