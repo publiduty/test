@@ -33,11 +33,8 @@ Es gibt Dateiendungen, die man auswendig kennen muss:<br>
 Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Präsentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com)<br>
 Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [Softonic.de](http://format-factory.de.softonic.com)<br>
 
-!! **Auftrag:** Laden Sie die Dateien *idm.png* und *PDF_Testseite.docx* herunter. Formatieren Sie das idm-Logo in eine **.jpg**-Datei um. Tragen Sie dann in das Word-Dokument Ihren Namen ein und speichern Sie die Datei. Beim nächsten Posten wird die Datei weiter verwendet.<br><br>
-[[Media:gibb.png]]<br>
-[[Media:PDF_Testseite.docx]]<br><br>
+!! **Auftrag:** Laden Sie die Dateien *idm.png* herunter. Wandeln Sie das idm-Logo in eine **.jpg**-Datei um. Mailen Sie das jpg dem Lehrperson.
 
-
-
+![](http://)
 
 
