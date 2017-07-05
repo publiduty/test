@@ -19,4 +19,4 @@ Suchen Sie auf ihrem Gerät die elektronische Agenda. Windows 8 nennt diese *Kal
 [Windows Live Mail](http://windows-live-mail.de.softonic.co) mit integriertem Kalender
 [Terminplaner.NET](http://www.computerbild.de/download/Terminplaner-.NET-3277367.htm)
 
-!! **Auftrag:**Finden Sie heraus, wie man in Ihrer elektronischen Agenda einen neuen Termin hinzufügt! In vielen Fällen klappt dies mit einem Doppelklick auf den Tag, an dem der Termin eingetragen werden soll. Wenn Sie das geschafft haben, rufen Sie die Lehrperson und demonstrieren ihr die Agenda!<br>
+!! **Auftrag:** Finden Sie heraus, wie man in Ihrer elektronischen Agenda einen neuen Termin hinzufügt! In vielen Fällen klappt dies mit einem Doppelklick auf den Tag, an dem der Termin eingetragen werden soll. Wenn Sie das geschafft haben, rufen Sie die Lehrperson und demonstrieren ihr die Agenda!<br>
