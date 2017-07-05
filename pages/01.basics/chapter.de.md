@@ -1,5 +1,5 @@
 ---
-title: byod
+title: 'byod Werkstatt'
 taxonomy:
     category:
         - docs
