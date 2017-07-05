@@ -29,7 +29,6 @@ Es gibt Dateiendungen, die man auswendig kennen muss:<br>
 |
 | .jpg || Bild ||
 |
-<br>
 **Dateien umformatieren**<br>
 Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Pr‰sentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com|)<br>
 Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [Softonic.de](http://format-factory.de.softonic.com|)<br>
