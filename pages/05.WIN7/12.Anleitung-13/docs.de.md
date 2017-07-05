@@ -12,7 +12,7 @@ Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil 
 
 **Datei einem Programm zuordnen**<br>
 Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen:<br>
-Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtube.com/watch?v=-5f7TRTI_Ck)<br> Es gibt eine zweite Möglichkeit für den Fall, dass der Computer eine Datei mit einem anderen, als dem gewünschten Programm ˆöffnet: [Standardprogramme festlegen](https://www.youtube.com/watch?v=Gcy-XiwtIsc|)
+Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtube.com/watch?v=-5f7TRTI_Ck)<br> Es gibt eine zweite Möglichkeit für den Fall, dass der Computer eine Datei mit einem anderen, als dem gewünschten Programm öffnet: [Standardprogramme festlegen](https://www.youtube.com/watch?v=Gcy-XiwtIsc|)
 
 **Dateiendungen zum auswendig kennen**<br>
 Es gibt Dateiendungen, die man auswendig kennen muss:<br>
@@ -30,7 +30,7 @@ Es gibt Dateiendungen, die man auswendig kennen muss:<br>
 | .jpg || Bild ||
 |
 **Dateien umformatieren**<br>
-Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Pr‰sentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com|)<br>
+Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Präsentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com)<br>
 Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [Softonic.de](http://format-factory.de.softonic.com|)<br>
 
 !! **Auftrag:** Laden Sie die Dateien *idm.png* und *PDF_Testseite.docx* herunter. Formatieren Sie das idm-Logo in eine **.jpg**-Datei um. Tragen Sie dann in das Word-Dokument Ihren Namen ein und speichern Sie die Datei. Beim nächsten Posten wird die Datei weiter verwendet.<br><br>
