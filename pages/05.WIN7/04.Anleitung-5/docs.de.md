@@ -5,10 +5,10 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können durch Startseiten und Lesezeichen das Arbeiten mit Ihrem Browser effizienter gestalten.
+!!! **Ziel:** Sie können durch Startseiten und Lesezeichen das Arbeiten mit Ihrem Browser effizienter gestalten.
 
 **Was ist ein Browser?**<br>
-Ein Browser ist ein Programm. Dieses Programm kann Daten auf einem Server abrufen und diese darstellen. Wo die Daten genau liegen, muss man dem Browser aber zuerst bekannt geben. Dazu hat jeder Browser eine Adresszeile. Man gibt zum Beispiel [www.idm.ch](http:www.idm.ch) in die Adresszeile ein. Dann holt sich der Browser die Daten auf dem entsprechenden Server und stellt diese als Webseite dar. Sie benutzen oft einen Browser. Zum Beispiel gerade jetzt. Ihr Browser hat auf dem Server von tacamo.ch die Daten geholt um diesen Posten darzustellen.
+Ein Browser ist ein Programm. Dieses Programm kann Daten auf einem Server abrufen und diese darstellen. Wo die Daten genau liegen, muss man dem Browser aber zuerst bekannt geben. Dazu hat jeder Browser eine Adresszeile. Man gibt zum Beispiel [www.idm.ch](http:www.idm.ch) in die Adresszeile ein. Dann holt sich der Browser die Daten auf dem entsprechenden Server und stellt diese als Webseite dar. Sie benutzen oft einen Browser. Zum Beispiel gerade jetzt. Ihr Browser hat auf dem Server von [www.tacamo.ch](http:www.tacamo.ch) die Daten geholt um diesen Posten darzustellen.
 Die am meisten verbreiteten Browser sind Firefox, Google Chrome, Safari und Internet Explorer. Einen dieser Browser verwenden Sie sehr wahrscheinlich gerade.<br>
 
 **Browser einrichten - Lesezeichen**<br>
