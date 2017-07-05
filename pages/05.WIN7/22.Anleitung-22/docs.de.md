@@ -1,26 +1,22 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Privatsph‰re Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Sie können erklären, was *Privatsphäre* bedeutet.<br>- Sie können Massnahmen ergreifen, um Ihre Privatsphäre zu schätzen.<br>-Sie können eine Strategie für Ihren Umgang mit Geheimnissen und Privatangelegenheiten formulieren.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+**Privatsache**
+Es gibt Dinge, die gehen niemanden etwas an! Vor allem Themen wie Liebe, Geld, Sexualität und Gesundheit sind sehr heikel. Diese Geheimnisse schützen wir natürlich. Wir erzählen sie nur unseren Freunden. Es gibt neben den Geheimnissen noch Dinge, die gehen nicht alle etwas an, aber sie sind nicht Geheimnisse im eigentlichen Sinn. Zum Beispiel Informationen, wie eine Geburtstagsparty verlief und wer da wie drauf war oder wer zuviel getrunken hat. Das sind keine Geheimnisse. Schon darum nicht, weil sie in einer Gruppe - also in einer Art Öffentlichkeit - passiert sind. Aber trotzdem will man nicht, dass die dort gemachten Fotos schutzlos allen zugänglich im Internet kursieren, denn der Arbeitgeber oder die Eltern bewegen sich auch im Internet.
+Wenn wir aber Privatangelegenheiten aber über das Internet austauschen - zum Beispiel über den Facebook-Wall - dann können uns diese Geheimnisse entgleiten und öffentlich werden. Darum ist es entscheidend, dass man seine Privatsphäre schätzt und auch die technischen Tricks kennt, um Unfälle zu verhindern.<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+!! **Auftrag:** Hören Sie den Input auf SRF zum Thema [Privatsphäre](http://www.srf.ch/sendungen/input/privatsphaere-im-schleppnetz) an!<br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
+**Facebook**<br>
+Facebook ist einerseits eine wichtige und stark frequentierte social media - Plattform. Andererseits geht Facebook mit den Daten - und damit auch mit den Geheimnissen und Privatangelegenheiten - der Nutzer sehr freizügig um. Falsche Einstellungen können fatal sein. Mit den Privatsphäre-Einstellungen sollen Sie die Privatangelegenheiten und Geheimnisse bestmöglich schützen. Aber vergessen Sie nicht: Mit dem Upload von Bilder und Videos geben Sie Facebook die Lizenz, also das Recht diese Inhalte so zu nutzen, wie Facebook das gerade tun will. Facebook kann also ein Foto, das Sie hochgeladen haben (egal mit welchen Privatsph‰re-Einstellungen) an jemanden verkaufen oder es irgendwo veröffentlichen. <br>
+Im folgenden [Video](https://www.youtube.com/watch?v=1sglx0f44fc) wird sehr detailliert und präzis erklärt, wie durch die Privatsphäre-Einstellungen die Privatangelegenheiten und Geheimnisse bestmöglichst geschützt werden können. Das Video ist zackig unterwegs. Sehen Sie sich ruhig eine Sequenz mehrmals an, damit Sie sicher mitkommen. Das Video hat zwei Teile. Im ersten Teil wird der Link zum zweiten Teil eingeblendet.<br>
+**Strategie**<br>
+Technik löst leider nicht alle Probleme. Sie werden für sich eine Strategie brauchen für den Umgang mit ihren Daten, Privatangelegenheiten, Fotos, Videos und Geheimnissen. Sie müssen sich entscheiden, was Sie wo veröffentlichen und was Sie nach wie vor nur Ihren engsten Freunden am Lagerfeuer erzählen werden.<br>
 
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
-
-
-
-
+!! **Auftrag:** Formulieren Sie Ihre Strategie im Umgang mit Ihren Daten! Schreiben Sie einen Text, in dem Sie detailliert darlegen, wie Sie gedenken mit Daten, Privatangelegenheiten, Fotos, Videos und Geheimnissen umzugehen. Sie können zusätzlich auch die Privatsphäre-Einstellungen bei social media - Plattformen thematisieren. Senden Sie den Text per Mail an Ihre Lehrperson!
