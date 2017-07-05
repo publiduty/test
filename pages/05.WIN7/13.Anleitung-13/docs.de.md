@@ -18,8 +18,11 @@ Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtub
 Es gibt Dateiendungen, die man auswendig kennen muss:<br><br>
 
 | Dateiendung || Dateityp ||
+|
 | .doc oder .docx || Word ||
+|
 | .xls oder .xlsx || Excel ||
+|
 | .ppt oder .pptx || Powerpoint ||
 |-
 | .pdf || unveränderbare Datei. Kann z.B. mit Adobe Reader gelesen werden ||
