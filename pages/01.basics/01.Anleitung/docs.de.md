@@ -21,7 +21,7 @@ Auf jeder Postenseite finden SIe farbig gekennzeichnete Abschnitte:
 
 !!!! **Hilfsmittel:** In einigen Posten bekommen Sie von der Lehrperson Hilfsmittel. Diese sind hier aufgeführt. Sie müssen sich bei der Lehrperson melden, um die Hilfsmittel zu bekommen.
 
-!! **Auftrag:** Hier erhalten Sie einen Auftrage zum gelesenen. Wählen Sie nun Ihr Betriebssystem in der Navigation auf der linken Seite und beginnen Sie mit der Werkstatt!
+!! **Auftrag:** Hier erhalten Sie einen Auftrage zum gelesenen.<br>Wählen Sie nun Ihr Betriebssystem in der Navigation auf der linken Seite und beginnen Sie mit der Werkstatt!
 
 
 
