@@ -30,7 +30,7 @@ Sie können auch den Suchort einschränken, indem Sie den Begriff *site:* und an
 Die Webseitensuche funktioniert auch, wenn Sie nur die Endung der Webseite eingeben. ÷sterreichisches Lehrvertragsrecht interessiert uns nicht. Mit dem Suchbegriff site:ch werden nur noch Seiten mit der Webseiten-Endung *.ch* angezeigt. Zum Beispiel:
 ''gesetzestexte lehrvertrag maximale arbeitszeitì -gewerkschaften filetype:pdf site.ch''<br>
 
-*Suchmaschinen*<br>
+**Suchmaschinen**<br>
 Es gibt sehr viele Suchmaschinen. Die oben genannten Suchfunktionen gelten für praktisch alle Suchmaschinen. Die mit einem Marktanteil von über 90% (Juni 2013) mit Abstand grösste Suchmaschine ist Google. Die zweitgrösste Suchmaschine ist Bing mit einem Marktanteil von knapp 3%.
 Jede Suchmaschine bietet Spezialfunktionen. Diese werden auch genau Beschrieben. Zum Beispiel finden Sie auf der Seite von Google die entsprechenden [Spezialfunktionen](http://www.google.com/intl/de/insidesearch/tipstricks/all.html)<br>
 Auch andere Suchmaschinen haben Spezialfunktionen. Diese finden Sie jeweils auf der entsprechenden Webseite.<br>
