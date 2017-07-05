@@ -10,4 +10,4 @@ child_type: docs
 
 # Werkstatt
 
-Bitte lesen Sie die Einführung auf der nächsten Seite!
+Bitte lesen Sie die **Einführung** auf der nächsten Seite!
