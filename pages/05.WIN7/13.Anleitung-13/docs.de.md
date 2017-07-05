@@ -34,21 +34,12 @@ Es gibt Dateiendungen, die man auswendig kennen muss:<br><br>
 
 **Dateien umformatieren**<br>
 Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Pr‰sentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com|)<br>
-Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [http://format-factory.de.softonic.com| Softonic.de]<br>
+Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [Softonic.de](http://format-factory.de.softonic.com|)<br>
 
-
-[[Bild:auftrag.png|left]]<br>
-Laden Sie die Dateien ''gibb.png'' und ''PDF_Testseite.docx'' herunter. Formatieren Sie das gibb-Logo in eine ''.jpg''-Datei um. Tragen Sie dann in das Word-Dokument Ihren Namen ein und speichern Sie die Datei. Beim n‰chsten Posten wird die Datei weiter verwendet.<br><br>
-
+!! **Auftrag:** Laden Sie die Dateien *idm.png* und *PDF_Testseite.docx* herunter. Formatieren Sie das idm-Logo in eine **.jpg**-Datei um. Tragen Sie dann in das Word-Dokument Ihren Namen ein und speichern Sie die Datei. Beim nächsten Posten wird die Datei weiter verwendet.<br><br>
 [[Media:gibb.png]]<br>
 [[Media:PDF_Testseite.docx]]<br><br>
 
-
-
-----
-<-[[Speichermedien Win7| 13 Speichermedien]] / [[Posten¸bersicht]] / [[PDF Win7| 15 PDF erstellen]] ->
-
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
 
 
