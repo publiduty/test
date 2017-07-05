@@ -20,7 +20,7 @@ Updates herunterladen, aber Installation manuell durchführen<br>
 Nach Update suchen, aber Zeitpunkt zum Herunterladen und Installieren manuell festlegen<br>
 Nie nach Updates suchen (nicht empfohlen)*<br>
 
-Zur Unterstützung können Sie dazu auch folgendes Video ansehen: [https://www.youtube.com/watch?v=h-aykEH96lA|Windows7/8]() Automatische Updates abschalten
+Zur Unterstützung können Sie dazu auch folgendes Video ansehen: [Automatische Updates abschalten](https://www.youtube.com/watch?v=h-aykEH96lA|Windows7/8)
 
 !! **Auftrag:** Entscheiden Sie sich für eine Einstellung und begründen Sie die Entscheidung mündlich Ihrer Lehrperson!
 
