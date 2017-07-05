@@ -1,23 +1,38 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Clouds Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** eine Cloud zur Zusammenarbeit mit anderen nutzen.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
+**Was sind Clouds?**<br>
+*Cloud* bedeutet Wolke und passt eigentlich gar nicht in diese Werkstatt. Man hat jedoch das Wort Clouds dem Wetter entliehen, um Daten-Organisationsformen zu benennen. Unter Clouds versteht man Server, die Daten auf verschiedenen Endgeräten wie Notebooks, Smartphones und PC organisieren. Die Idee dahinter ist, dass man Daten nicht auf einem Gerät speichert, sondern diese auf einen Server verschiebt, der allen Geräten zugänglich ist. Wenn man also zum Beispiel die Nummer eines Kollegen bekommt und diese ins Smartphone tippt, dann möchte man diese ja auch auf dem PC und dem Tablet und am Schulcomputer zur Verfägung haben. Eine Cloud organisiert das vollautomatisch. Das selbe Prinzip ist auch auf Dokumente, Filme, Fotos, Termine u.s.w. anwendbar. Sehr effizient sind Clouds vor allem dann, wenn man bestimmte Inhalte oder Daten mit anderen Menschen teilen kann.<br><br>
+!! **Auftrag:** Schauen Sie sich folgenden [Video]{https://www.youtube.com/watch?v=NoABtadYfxo) zur Verdeutlichung an! <br>
+
+**Die Cloud von Windows: OneDrive**
+
+!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=KeY_1C4-wm8) zu OneDrive an!<br><br>
+
+!! **Auftrag:**Nehmen Sie die Cloud Ihres Betriebssystems in Betrieb. Zuerst müssen Sie OneDrive [ herunterladen](https://onedrive.live.com/about/de-ch/support). Dann können Sie OneDrive einrichten. Am Schluss demonstrieren Sie diese Ihrer Lehrperson!<br><
+
+**Unabhängige Clouds**<br>
+Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten und vorinstalliert sind, gibt es Cloud, die nicht von einem bestimmten Betriebssystem abhängig sind. Eine bekannte Cloud ist die Dropbox. <br>
+!! **Auftrag:**Arbeiten Sie sich durch die [Einführungstour](https://www.dropbox.com/tour/0|) von Dropbox!<br>
+
+!! **Freiwilliger Zusatzauftrag:**Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
+
+!! **Auftrag:**Arbeiten Sie sich durch die [Einführung](https://www.google.ch/drive/about.html|) von GoogleDrive!<br><br><br>
+
+!! **Freiwilliger Zusatzauftrag:**Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
+
+
+
+
+---- <- [[Backup Win7| 17 Backup]] / [[Posten¸bersicht]] / [[Urheberrecht Win7| 19 Urheberrecht]]  ->
 
 !! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
