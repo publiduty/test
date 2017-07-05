@@ -8,6 +8,6 @@ child_type: docs
 
 ### Werkstatt
 
-# Windows 7
+# Windows 8
 
 Entdecken Sie **wichtige** Grundlagen!
