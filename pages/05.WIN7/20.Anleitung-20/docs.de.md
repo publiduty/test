@@ -9,7 +9,7 @@ taxonomy:
 
 Stellen Sie sich das Internet vor wie die gröddte Bibliothek der Welt: Ein riesiges Gebäude mit 5.000 Stockwerken, mit Millionen Regalen, in denen sich unzählige Seiten, Texte, Bücher, Hefte, CDs und DVDs reihen... und Sie müssten alles zum Thema Lehrvertrag finden. Sie hätten keine Chance! Im Internet gibt es zum Glück Suchmaschinen. Dieses Suchmaschinen durchsuchen Tag und Nacht das ganze Internet und speichern nach einem bestimmten Muster Wörter und Links. Wenn man einer Suchmaschine eine Frage stellt, dann kann diese einem die Internetseiten auflisten, die der Frage am besten entsprechen. Aber Maschinen sind Maschinen und keine Menschen und sind darum grundsätzlich ziemlich dumm, weil ihnen viele Sinne fehlen. Darum muss man etwas speziell mit ihnen umgehen, um Erfolg zu haben.
 
-**Suchbegriffe statt S‰tze**<br>
+**Suchbegriffe statt Sätze**<br>
 Einem Bibliothekar können Sie Frage stellen: Wo sind die Gesetzestexte zum Lehrvertrag? Eine Suchmaschine kann damit nicht viel anfangen. Für sie sind die Bausteine eines Satzes unwichtig, die wir zum genauen Verständnis brauchen. Eine Suchmaschine funktioniert gut, wenn wir die Suchbegriffe auf das Nötigste reduzieren. Mit den zwei Wörtern *Gesetzestexte* und *Lehrvertrag* gibt die Suchmaschine bessere Resultate aus, als wenn man den ganzen Satz eingibt.<br>
 
 **Korrekte Schreibweise**<br>
@@ -18,7 +18,7 @@ Eine Suchmaschine sucht genau das, was man eingibt. Ob man Wal oder Wahl eingibt
 **Eingrenzung und Ausschluss**<br><br>
 Wenn Sie mehr Suchbegriffe verwenden, werden die ausgegebenen Links präziser. Wenn Sie zum Beispiel wissen wollen, wie viele Stunden Sie maximal pro Woche arbeiten dürfen, geben Sie zu den Suchbegriffen *Lehrvertrag* und *Gesetzestexte* noch den Suchbegriff *Arbeitszeit* hinzu. Sie können auch Suchbegriffe ausschliessen, das heisst, dass die Internetseiten mit dem ausgeschlossenen Suchbegriff nicht angezeigt werden. Suchbegriffe schliesst man bei den gängigen Suchmaschinen aus, indem man das Zeichen *-* ohne Abstand voran stellt. Wenn Sie also keine Angaben zu den Gewerkschaften wollen, dann geben sie zu den Suchbegriffen *Lehrvertrag*, *Gesetzestexte* und *Arbeitszeit* noch den Auschluss-Suchbegriff *- Gewerkschaft* hinzu. Das sieht bei Google dann so aus:<br>
 
-![](http://www.tacaomo.ch/byod/resources/7.jpg)
+![Bild](http://tacamo.ch/byod/resources/7.jpg)<br>
 
 **Ganze Wortgruppen**<br>
 Wenn Sie etwas ¸ber die Schweizerischen Bundesbahnen herausfinden wollen, dann können Sie die ganze Wortgruppe als einen einzigen Suchbegriff eingeben. Dazu schreiben Sie vorne und hinten zwei Apostroph (') hin. Also ''Schweizerische Bundesbahnen''. Dann werden sie Seiten zur SBB und nicht zu anderen Inhalten bekommen, die schweizerisch sind, wie zum Beispiel Käse, Schokolade, Fahnenschwingen, u.s.w.<br>
