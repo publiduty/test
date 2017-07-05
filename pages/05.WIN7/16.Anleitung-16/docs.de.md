@@ -1,25 +1,23 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Backup Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Sie können die eigenen Daten sichern.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+**Was ist ein Backup**<br>
+Dinge gehen kaputt. Das gilt für Autos, Fernseher, Häuser... und auch für Notebooks. Ein Notebook kann man ersetzen. Das kostet zwar Geld, aber das ist in der Regel machbar. Wenn aber Daten verloren gehen, dann sind diese möglicherweise nicht wieder herstellbar, weil einige tausend Arbeitsstunden nötig wären. Vielleicht kann man die Daten auch mit viel Arbeit nicht mehr herstellen. Zum Beispiel Fotos: Sie werden nie mehr Ihren ersten Schultag herstellen können, auch wenn Sie den Schulrucksack noch irgendwo haben. <br>
+Ein Backup ist eine Sicherungskopie von wichtigen Daten. Diese Sicherungskopien macht man in der Regel auf externe Festplatten. USB-Sticks, DVD's und CD's sind zu klein und nur begrenzt wieder beschreibbar. Wenn man sich sehr gut gegen Datenverlust absichern will, dann sichert man die selben Kopien auf zwei externe Festplatten und bewahrt eine ausserhalb der eigenen Wohnung auf. Zum Beispiel im Lehrbetrieb oder bei den Grosseltern. Denn wenn Notebook und Festplatte beide im selben Rucksack sind, wenn dieser geklaut wird oder beide auf dem Pult stehen, wenn es durch das offene Dachfenster regnet, dann sind die Daten verloren. Definitiv!<br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+**Integrierte Backup-Programme**<br>
+Windows 7, Windows 8 und Mac OS X haben Backup-Programme ins Betriebssystem integriert. Man braucht also keine Programme dafür zu kaufen oder herunterzuladen. Man braucht die Programme nur noch einzurichten. Die Programme sind ziemlich durchdacht. Sie sichern automatisch in bestimmten Zeitabständen Ihre Daten. Weil die externe Festplatte aber sofort voll wäre, wenn jedes Mal alle Daten gesichert werden, werden nur die Veränderungen seit dem letzten Backup gesichert. <br>
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
+!! **Auftrag:** Lernen Sie in diesem [Video](http://www.youtube.com/watch?v=AqO4t7PTb6Q), Sie das Backup einschalten können. Richten Sie anschliessend das Backup-Programm auf Ihrem eigenen Gerät ein! Rufen Sie anschliessend die Lehrperson zu sich und demonstrieren Sie das Backup!<br>
 
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
+**Zusätzliche Backup-Programme**<br>
+Integrierte Backup-Programme können einige Dinge nicht, zum Beispiel den Inhalt eines bestimmten USB-Sticks automatisch und regelmässig sichern. Dafür gibt es verschiedene Gratisprogramme. Für Windows ist *Personal Backup* 5ë für alle Versionen ein taugliches Programm. Für Mac OS X gibt es das Programm *SyncTwoFolders*<br><br>
 
 
 
