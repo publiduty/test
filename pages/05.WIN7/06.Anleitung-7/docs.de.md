@@ -25,9 +25,3 @@ Die **Netzwerkeinstellungen** benötigen Sie, um sich in ein Netzwerk, zum Beisp
 Die verschiedenen **Ruhezustände** kann man unter Systemsteuerung *> Energieoptionen* einstellen. Es werden im wesentlichen zwei Ruhezustände unterschieden. Der Ruhezustand für den Monitor schaltet den Monitor ab. Dieser wird innerhalb etwa einer Sekunde wieder angeschaltet, wenn man eine Taste berührt. Mit dem Regler können Sie die Zeit einstellen, nach der automatisch der Monitor in den Ruhezustand versetzt wird, wenn keine Tasten mehr berührt werden. Das Gleiche lässt sich für alle Netzwerkverbindungen einstellen.<br>
 Der Computer arbeitet aber noch immer ganz normal, wenn der Bildschirm im Ruhezustand ist. Anders ist das beim Energiesparmodus. Wenn dieser nach der eingestellten Zeitdauer aktiviert wird, hört die Festplatte auf zu drehen und die Aktivität des Prozessors wird auf ein absolutes Minimum reduziert. Auch werden Teile des Notebooks stromlos. Dieser Energiespar-Modus wird auch automatisch beim Schliessen des Notebook-Deckels aktiviert. Die Stromersparnis ist viel grösser, als beim Ruhezustand des Monitors, aber der Computer braucht einige Sekunden, um beim Aufwecken durch einen Tastendruck wieder voll funktionsfähig zu sein. <br><br>
 **Popups** sind Internetbrowser-Fenster, die aufgehen ohne dass man das will. Oft zeigen solche Popups Werbung. Popups kann man in Systemsteuerung *> Netzwerk und Internet > Internetoptionen > Datenschutz > Popupblocker blockieren.*<br>
-
-!! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
-
-
-
-
