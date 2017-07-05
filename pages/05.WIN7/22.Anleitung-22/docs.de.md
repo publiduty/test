@@ -1,5 +1,5 @@
 ---
-title: 'Privatsph‰re Win7'
+title: 'Privatsphäre Win7'
 taxonomy:
     category:
         - docs
