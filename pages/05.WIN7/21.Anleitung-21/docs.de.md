@@ -9,9 +9,9 @@ taxonomy:
 
 **Elektronische Agenda**<br>
 Agenden kennt man als mehr oder weniger dicke Bücher, in die man Termine einschreiben kann. Verlieren kann man sie auch und man braucht jedes Jahr eine neue. Bei elektronischen Agenden ist dies anders. Sie sind endlos und bieten nützliche Funktionen:
-*Elektronische Agenden sind mit anderen elektronischen Agenden, zum Beispiel auf einem Smartphone, synchronisierbar.<br>
+*Elektronische Agenden sind mit anderen elektronischen Agenden, zum Beispiel auf einem Smartphone, synchronisierbar.*<br>
 *Elektronische Agenden kann man backupen.*<br>
-*Elektronische Agenden kˆnnen Termine per Mail versenden.*<br>
+*Elektronische Agenden können Termine per Mail versenden.*<br>
 
 **Elektronische Agenda finden**<br>
 Suchen Sie auf ihrem Gerät die elektronische Agenda. Windows 8 nennt diese *Kalender*, Window 7 hat nicht in jeder Version eine elektronische Agenda integriert. Wenn Sie keine haben, dann laden Sie sich ein Gratisprogramm herunter. Zum Beispiel
