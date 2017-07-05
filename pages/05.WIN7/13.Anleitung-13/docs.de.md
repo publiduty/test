@@ -16,7 +16,8 @@ Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtub
 
 **Dateiendungen zum auswendig kennen**<br>
 Es gibt Dateiendungen, die man auswendig kennen muss:<br><br>
-
+| Deteiendung ||
+|
 | .doc oder .docx || Word ||
 |
 | .xls oder .xlsx || Excel ||
