@@ -1,23 +1,52 @@
 ---
-title: 'Betriebssystem Win8'
+title: 'Dateiformate Win7'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Ziel: Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Ziel: Sie können die gängigsten Suffixe interpretieren.<br>Sie können Dateien mit dem gewünschten Programm öffnen.
 
-**Was ist ein Betriebssystem**<br>
-Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
-Erst die Programme, die man mit Hilfe des Betriebssystems auf einem Computer installieren kann, bringen einem die erhoffte Produktivit‰t. Man nutzt zum Beispiel Word, um einen Text zu schreiben. Word gehört nicht zum Betriebssystem, sondern es ist ein zusätzlich installiertes Programm.
-Es gibt nicht nur ein Betriebssystem. Es gibt drei verbreitete Betriebssysteme: Windows, MacOS und Linux. Windows ist mit Abstand am meisten verbreitet. Es gibt davon viele Versionen. Aktuell ist das Betriebssystem Windows 8, von dem es aber wieder viele Untersysteme gibt, zum Beispiel Student Version oder Enterprise Version. Verschiedene Hersteller produzieren Computer aller Art mit dem Betriebssystem Windows: Dell, Acer, FUJITSU, u.s.w.<br>
-Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die von Apple produziert werden. Die Firma Apple programmiert also das Betriebssystem und baut auch gerade die Geräte dazu.<br>
-Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
-Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
+**Zusammensetzung von Dateinamen**<br>
+Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil ist der eigentliche Name, der frei gewählt werden kann. Der zweite, durch einen Punkt abgetrennte Teil gibt an, mit welchem Programm die Datei erstellt wurde. Das ist wichtig, Daten nur mit dem gleichen oder einem ähnlichen Programmen weiter benutzt werden können. Den zweiten Teil des Dateinamens bezeichnet man auch als Dateiendung oder Suffix. Ist die Dateiendung weg, erkennt der Computer manchmal nicht mehr, mit welchem Programm eine Datei geöffnet werden soll. <br><br>
 
-Start > Einstellungen > Systemsteuerung > System > Allgemein<br>
+**Datei einem Programm zuordnen**<br>
+Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen:<br>
+Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtube.com/watch?v=-5f7TRTI_Ck)<br> Es gibt eine zweite Möglichkeit für den Fall, dass der Computer eine Datei mit einem anderen, als dem gewünschten Programm ˆöffnet: [Standardprogramme festlegen](https://www.youtube.com/watch?v=Gcy-XiwtIsc|)
 
-Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
+**Dateiendungen zum auswendig kennen**<br>
+Es gibt Dateiendungen, die man auswendig kennen muss:<br><br>
+{|
+! Dateiendung !! Dateityp !!
+|-
+| .doc oder .docx || Word ||
+|-
+| .xls oder .xlsx || Excel ||
+|-
+| .ppt oder .pptx || Powerpoint ||
+|-
+| .pdf || unveränderbare Datei. Kann z.B. mit Adobe Reader gelesen werden ||
+|-
+| .jpg || Bild ||
+|}
+<br><br>
+			
+
+**Dateien umformatieren**<br>
+Manchmal braucht man eine Datei in einem anderen Format. Text- Tabellen- oder Pr‰sentationsdateien können mit dem Programm, mit dem die Datei erstellt wurde, in der Regel in ähnliche Formate umgewandelt werden. Mit dem Menubefehl *speichern unter ...* erscheint ein Dialogfeld, das verfügbare Format anzeigt. Ist das nicht möglich, gibt es Online-Angebot, wie zum Beispiel: [online-convert.com](http://www.online-convert.com|)<br>
+Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware-Programmen umformatieren, weil die grossen Daten nicht über das Internet versendet werden müssen. Eines dieser Programm heisst **Format Factory** und beherrscht die wichtigsten Audio-, Video und Bilddateien. Dieses kann hier heruntergeladen werden:<br> [http://format-factory.de.softonic.com| Softonic.de]<br>
+
+
+[[Bild:auftrag.png|left]]<br>
+Laden Sie die Dateien ''gibb.png'' und ''PDF_Testseite.docx'' herunter. Formatieren Sie das gibb-Logo in eine ''.jpg''-Datei um. Tragen Sie dann in das Word-Dokument Ihren Namen ein und speichern Sie die Datei. Beim n‰chsten Posten wird die Datei weiter verwendet.<br><br>
+
+[[Media:gibb.png]]<br>
+[[Media:PDF_Testseite.docx]]<br><br>
+
+
+
+----
+<-[[Speichermedien Win7| 13 Speichermedien]] / [[Posten¸bersicht]] / [[PDF Win7| 15 PDF erstellen]] ->
 
 !! **Auftrag:** Notieren Sie die genaue Bezeichnung Ihres Betriebssytemes auf dem Arbeitsblatt und gehen Sie zur nächsten Aufgabe!
 
