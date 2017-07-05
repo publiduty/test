@@ -8,7 +8,7 @@ taxonomy:
 Sie arbeiten in der Schule mit einem Notebook, das Sie selber mitgebracht haben. Das Notebook soll den Unterricht effizienter machen und neue Möglichkeiten eröffnen. Das funktioniert aber nur, wenn Sie Ihr Gerät beherrschen. Natürlich bringen Sie bereits Wissen und Können mit. Aber nicht alle Lernenden bringen gleich viel mit. Um vom Notebook im Unterricht profitieren zu können, werden Sie in dieser Lernumgebung das nötige Wissen und Können aufbauen. 
 
 **Arbeitsweise**<br>
-Sie lernen nur dort, wo Sie Lücken haben und übergehen das, was Sie bereits wissen und können. >>>>>><br>
+Sie lernen nur dort, wo Sie Lücken haben und übergehen das, was Sie bereits wissen und können.<br>
 >**Achtung:** Der Mensch neigt natürlicherweise zur Selbstüberschätzung. Gehen Sie nicht leichtfertig über Posten hinweg. Sie müssen alle Nachweise erbringen, also auch die Nachweise der Posten, die Sie nicht vollständig bearbeitet haben.
 
 **Aufbau und Navigation**<br>
