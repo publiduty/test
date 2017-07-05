@@ -1,5 +1,5 @@
 ---
-title: WIN7
+title: 'Window 7'
 taxonomy:
     category:
         - docs
