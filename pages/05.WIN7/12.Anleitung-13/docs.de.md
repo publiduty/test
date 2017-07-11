@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können die gängigsten Suffixe interpretieren.<br>Sie können Dateien mit dem gewünschten Programm öffnen.
+!!! **Ziele:**<br>- Sie können die gängigsten Suffixe interpretieren.<br>- Sie können Dateien mit dem gewünschten Programm öffnen.
 
 **Zusammensetzung von Dateinamen**<br>
 Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil ist der eigentliche Name, der frei gewählt werden kann. Der zweite, durch einen Punkt abgetrennte Teil gibt an, mit welchem Programm die Datei erstellt wurde. Das ist wichtig, Daten nur mit dem gleichen oder einem ähnlichen Programmen weiter benutzt werden können. Den zweiten Teil des Dateinamens bezeichnet man auch als Dateiendung oder **Suffix**. Ist die Dateiendung weg, erkennt der Computer manchmal nicht mehr, mit welchem Programm eine Datei geöffnet werden soll. <br>
