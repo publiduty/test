@@ -15,6 +15,7 @@ Lernen Sie mit den folgenden Videos, wie Lesezeichen in Ihrem Browser angelegt w
 >Firefox: [Firefox, Favoriten und Lesezeichen Symbolleiste optimaleinsetzen](https://www.youtube.com/watch?v=hol0H9hICrg|) <br>
 Google Chrome: [Chrome - Lesezeichen setzen](https://www.youtube.com/watch?v=QS4xEEwesj4|Google)<br>
 Internet Explorer: [Internet Explorer: Lesezeichen (Favoriten) anlegen](https://www.youtube.com/watch?v=jboLpnKXhUg|)<br>
+
 !! **Auftrag:** Legen Sie einige Lesezeichenordner mit Lesezeichen an! Zeigen Sie diese Ihrer Lehrperson!
 
 
