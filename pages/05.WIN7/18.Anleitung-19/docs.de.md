@@ -13,7 +13,7 @@ An diesem Posten lernen Sie, wie Sie ein Foto von einer Kamera importieren, zusc
 
 Für Windows 8 ist zudem die App *Fotos* vorinstalliert. Dieser Werkstattposten geht ausschliesslich das Programm Fotogalerie ein. Erkunden Sie die App Fotos selber, wenn Sie Lust und Zeit haben.<br>
 Apple bietet mit *iPhoto* ein umfassendes Fotoprogramm an, das bereits vorinstalliert ist.<br>
-Folgen Sie nun den jeweiligen Instruktionen bei den drei Lernschritten!<br><br>
+Folgen Sie nun den jeweiligen Instruktionen bei den drei Lernschritten!<br>
 
 **importieren - zuschneiden - exportieren**<br>
 Dieser Werkstattposten geht nur auf das Zuschneiden von Fotos ein. Damit das möglich wird, muss das Foto aber zuerst in die Fotogalerie importiert werden. Nachdem das Foto zugeschnitten ist, kann die Datei geschlossen werden. Das neue Bild wird automatisch gespeichert. Diese Schritte werden Ihnen in diesem [Video](https://www.youtube.com/watch?v=bcgVfeci2nk) erklärt.<br>
