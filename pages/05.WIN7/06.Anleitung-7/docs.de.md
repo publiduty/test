@@ -14,7 +14,8 @@ Der Titel des Postens ist eigentlich etwas missverst채ndlich. An Ihrem Ger채t k�
 *Netzwerk*<br>
 *Passwort*<br>
 *Ruhezust채nde*<br>
-*Popup blockieren*<br><br>
+*Popup blockieren*<br>
+
 Die Einstellungen sind bei den zwei Betriebssystem Mac und Windows so verschieden, dass der Posten sich hier trennt: Wer ein Mac-Ger채t benutzt, kann den Windows-Teil 체berspringen und umgekehrt.<br><br>
 **Einstellungen am Windows Betriebssystem**<br>
 Die Einstellungen heissen in Windows Systemsteuerung. In **Windows 7** greifen Sie 체ber den Startbutton auf die Systemsteuerung zu. Bei Windows 8 gelangen Sie 체ber den Startbildschirm dorthin. Wenn Sie die **Kachel** nicht finden, dann rechte Maustaste *> Alle Apps > rechter Mausklick auf Systemsteuerung > An Start anheften. *<br><br>
