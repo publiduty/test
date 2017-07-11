@@ -1,5 +1,5 @@
 ---
-title: 'Einstellungen Win7'
+title: '6. Einstellungen Win7'
 taxonomy:
     category:
         - docs
