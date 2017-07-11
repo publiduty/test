@@ -25,8 +25,8 @@ Es gibt aber auch Lizenzen, die nichts kosten, sondern an Bedingungen geknüpft 
 Suchen Sie die Lizenzbedingungen zu diesem Text. Schreiben Sie Ihrer Lehrperson eine Mail mit dem Betreff *Lizenzen* und beantworten Sie folgende Frage: Darf eine Autogarage den Wikipedia-Text zum Bio-Diesel kopieren und in der Ausstellungshalle neben den Diesel-Fahrzeugen auflegen? Was muss die Autogarage dabei beachten?<br>
 >*Hinweis*: Wie oben beschrieben finden Sie die Lizenzbedingungen bei Wikipedia in der Regel unten auf der Seite. Wenn Sie auf den Lizenz-Link klicken, dann erscheint ein Text, der von Juristen für Juristen geschrieben wurde. Das ist etwa wie Chinesisch, ausser dass es wie Deutsch aussieht. Beachten Sie, dass es ganz oben auf der Seite mit dem Lizenz-Text einen Link gibt, der zu einer stark vereinfachten Version des Textes führt. Nutzen Sie diesen Text zur Auftragserfüllung!<br>
 
-Besuchen Sie die Webseite www.pixelio.de! Diese Seite bietet ebenfalls Bilder mit einer kostenlosen Lizenz, an die gewisse Bedingungen gekn¸pft ist. Schauen Sie sich die  [Lizenzbedingungen](http://hilfe.pixelio.de/index.php?action=artikel&cat=8&id=81&artlang=de) an! Diese Lizenzbedingungen sind sehr verständlich geschrieben und darum lesenswert.<br>
-Es gibt auch Werke, deren Lizenz an gar keine Bedingung gekn¸pft ist, das heisst, man kann diese Bilder für alle Zwecke ohne Einschr‰nkung benutzen. Diese Lizenz nennt man *public domain*.<br>
+Besuchen Sie die Webseite [www.pixelio.de](http://www.pixelio.de)! Diese Seite bietet ebenfalls Bilder mit einer kostenlosen Lizenz, an die gewisse Bedingungen geknüpft ist. Schauen Sie sich die  [Lizenzbedingungen](http://hilfe.pixelio.de/index.php?action=artikel&cat=8&id=81&artlang=de) an! Diese Lizenzbedingungen sind sehr verständlich geschrieben und darum lesenswert.<br>
+Es gibt auch Werke, deren Lizenz an gar keine Bedingung geknüpft ist, das heisst, man kann diese Bilder für alle Zwecke ohne Einschränkung benutzen. Diese Lizenz nennt man *public domain*.<br>
 
 **Lizenzfrei Bilder suchen**<br>
 Google bietet mit der [erweiterten Bildersuche](http://www.google.ch/advanced_image_search|) die Möglichkeit, Bilder gezielt nach Lizenz zu suchen: <br>
@@ -36,7 +36,7 @@ Facebook hat spezielle Nutzungsrechte. Wenn Sie Inhalte, wie zum Beispiel Fotos 
 Die Nutzungsbedingungen von Facebook finden Sie [hier](https://www.facebook.com/legal/terms?locale=de_DE)<br>
 
 **Filme und Videos aus dem Internet herunterladen**<br>
-Wenn Sie Filme und Videos aus dem Internet herunterladen, dann tun Sie nichts Illegales, weil dieses Verhalten vom Artikel 19 des Urheberrechts gutgeheissen wird. Sie brauchen also keine Konsequenzen zu befürchten. Das Uploaden von Inhalten ins Netz, auch auf Tauschbörsen und mit Tauschprogrammen wie Bittorrent, uTorrent oder Vuze, ist aber illegal, weil Sie jemandem etwas geben, ohne es zu besitzen.<br><br>
+Wenn Sie Filme und Videos aus dem Internet herunterladen, dann tun Sie nichts Illegales, weil dieses Verhalten vom Artikel 19 des Urheberrechts gutgeheissen wird. Sie brauchen also keine Konsequenzen zu befürchten. Das Uploaden von Inhalten ins Netz, auch auf Tauschbörsen und mit Tauschprogrammen wie Bittorrent, uTorrent oder Vuze, ist aber illegal, weil Sie jemandem etwas geben, ohne es zu besitzen.<br>
 !! **Auftrag:**Eine gute Zusammenfassung zu den Regeln und Grenzen des Up- und Downloadens finden Sie in diesem [Zeitungsbericht](http://www.20min.ch/community/stories/story/19984742). Lesen Sie diesen durch! <br>
 
 **Achtung, verbotene Inhalte**<br>
