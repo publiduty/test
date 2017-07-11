@@ -11,3 +11,5 @@ child_type: docs
 # Werkstatt
 
 Bitte lesen Sie die **Einführung** auf der nächsten Seite!
+![Bild](http://tacamo.ch/byod/resources/65.jpg)<br>
+###### GIBB / Bearbeitung: Andreas de Bruin / IDM
