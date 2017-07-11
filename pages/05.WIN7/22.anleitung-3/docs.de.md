@@ -12,7 +12,7 @@ Am sichersten ist das Wiederherstellen des Betriebssystems mit einer Wiederherst
 Klicken Sie auf den Start-Button (unten links) und geben Sie *Systemreparaturdatenträger* ins Suchfeld ein. Klicken Sie dann auf *Systemreparaturdatenträger erstellen* und folgen sie den Anweisungen. Irgendwann werden Sie aufgefordert eine CD, eine DVD oder einen Stick einzulegen.<br>
 !! **Auftrag:** Erstellen Sie eine Recovery CD/Stick und zeigen Sie diese der Lehrperson!
 Die RecoveryCD/DVD oder der Recovery-Stick müssen Sie aufbewahren. Damit können Sie ein beschädigtes oder verseuchtes Betriebssystem so reparieren:<br>
-*Schalten sie den Computer ein, legen Sie die Windows-Installations-CD oder -DVD ein und starten Sie dann den Computer neu.<br>
+>*Schalten sie den Computer ein, legen Sie die Windows-Installations-CD oder -DVD ein und starten Sie dann den Computer neu.<br>
 Halten Sie bei Windows die Taste **F2** und bei Mac die tasten **cmd** und **R** gedrückt und folgenden Sie den angezeigten Anweisungen.<br>
 Klicken Sie auf der Seite *Windows installieren* auf *Jetzt installieren*, um mit dem Installationsprozess zu beginnen, oder klicken Sie auf Computer reparieren, um die Systemwiederherstellungsoptionen anzuzeigen.<br>
 Folgen Sie den Anweisungen.*<br>
