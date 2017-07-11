@@ -12,4 +12,4 @@ Ein Dokument zu schützen ist einfach, weil man mit allen gängigen Programmen e
 [Office für Windows 2013](http://praxistipps.chip.de/word-datei-mit-passwort-schuetzen-so-gehts_11774)<br>
 [Office für Windows 2016](http://www.computerbild.de/videos/cb-Tipps-Software-Office-2016-Word-Datei-Passwort-14211311.html)<br>
 [Adobe Reader](http://help.adobe.com/de_DE/acrobat/standard/using/WSD012A4E1-51D1-4bcd-BA9F-EF03C6F20BB6.html)<br>
-!! **Auftrag:**Verschlüsseln Sie das PDF-Dokument vom Posten [[PDF Win7| 15 PDF erstellen]]. Rufen Sie die Lehrperson und demonstrieren Sie die Passwortsperre!<br><br>
+!! **Auftrag:** Verschlüsseln Sie ein PDF-Dokument. Rufen Sie die Lehrperson und demonstrieren Sie die Passwortsperre!<br>
