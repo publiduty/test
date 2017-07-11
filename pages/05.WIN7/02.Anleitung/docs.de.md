@@ -15,7 +15,7 @@ Klicken Sie sich bis zur Update-Einstellung durch:
 
 Sie haben nun vier Einstellungsmöglichkeiten. Die oberste ist standardmässig eingestellt und stört. Die letzte sollten Sie nicht wählen, weil Sie sonst bald Probleme mit Viren, nicht lesbaren Dateien, nicht kompatiblen Geräten, u.s.w., bekommen.<br>
 
-*Updates automatisch installieren (empfohlen)<br>
+>*Updates automatisch installieren (empfohlen)<br>
 Updates herunterladen, aber Installation manuell durchführen<br>
 Nach Update suchen, aber Zeitpunkt zum Herunterladen und Installieren manuell festlegen<br>
 Nie nach Updates suchen (nicht empfohlen)*<br>
