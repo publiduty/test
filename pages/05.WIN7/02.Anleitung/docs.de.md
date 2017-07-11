@@ -11,7 +11,7 @@ Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu w
 
 Klicken Sie sich bis zur Update-Einstellung durch:
 
-*Systemeinstellungen > Windows Update > Einstellungen ändern*
+>*Systemeinstellungen > Windows Update > Einstellungen ändern*
 
 Sie haben nun vier Einstellungsmöglichkeiten. Die oberste ist standardmässig eingestellt und stört. Die letzte sollten Sie nicht wählen, weil Sie sonst bald Probleme mit Viren, nicht lesbaren Dateien, nicht kompatiblen Geräten, u.s.w., bekommen.<br>
 
