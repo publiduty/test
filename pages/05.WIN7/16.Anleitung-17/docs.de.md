@@ -12,7 +12,7 @@ taxonomy:
 
 **Die Cloud von Windows: OneDrive**
 
-!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=KeY_1C4-wm8) zu OneDrive an!<br>
+!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=w_3OrgAm-eM) zu OneDrive an!<br>
 
 !! **Auftrag:** Nehmen Sie die Cloud Ihres Betriebssystems in Betrieb. Zuerst müssen Sie OneDrive [ herunterladen](https://onedrive.live.com/about/de-ch/support). Dann können Sie OneDrive einrichten. Am Schluss demonstrieren Sie diese Ihrer Lehrperson!<br>
 
