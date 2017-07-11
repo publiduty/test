@@ -37,7 +37,7 @@ Die Nutzungsbedingungen von Facebook finden Sie [hier](https://www.facebook.com/
 
 **Filme und Videos aus dem Internet herunterladen**<br>
 Wenn Sie Filme und Videos aus dem Internet herunterladen, dann tun Sie nichts Illegales, weil dieses Verhalten vom Artikel 19 des Urheberrechts gutgeheissen wird. Sie brauchen also keine Konsequenzen zu befürchten. Das Uploaden von Inhalten ins Netz, auch auf Tauschbörsen und mit Tauschprogrammen wie Bittorrent, uTorrent oder Vuze, ist aber illegal, weil Sie jemandem etwas geben, ohne es zu besitzen.<br>
-!! **Auftrag:**Eine gute Zusammenfassung zu den Regeln und Grenzen des Up- und Downloadens finden Sie in diesem [Zeitungsbericht](http://www.20min.ch/community/stories/story/19984742). Lesen Sie diesen durch! <br>
+!! **Auftrag:** Eine gute Zusammenfassung zu den Regeln und Grenzen des Up- und Downloadens finden Sie in diesem [Zeitungsbericht](http://www.20min.ch/community/stories/story/19984742). Lesen Sie diesen durch! <br>
 
 **Achtung, verbotene Inhalte**<br>
 Es gibt Bilder und Videos, die entweder niemandem zugänglich gemacht werden dürfen, oder sogar deren Besitz verboten ist. Es handelt sich dabei vor allem um pornografische Darstellungen. Dabei wird zwischen Pornografie und harter Pornografie unterschieden. Wer Pornografie an Menschen unter 16 Jahren weitergibt, zur Verfügung stellt, zeigt, u.s.w. macht sich strafbar. Das gilt auch, wenn Sie unter 16-jährigen  zum Beispiel einen Link zu einem Pornovideo schicken oder ein einfaches Nacktbild als MMS oder Whatsapp versenden. Dabei spielt es keine Rolle, wie alt Sie selber sind. Bereits ab 10 Jahren werden Sie für dieses Vergehen gebüsst. Der einfache Besitz von Pornografie ist aber straffrei.
