@@ -15,6 +15,5 @@ Bei Windows sind die Programme in der Regel in folgendem Ordner gespeichert -> C
 Mac speichert die Programme im Ordner Programme.<br>
 
 **Installieren und Deinstallieren**<br>
-Sehen Sie sich folgendes Video an, um zu lernen, wie man Programme installiert und deinstalliert:
-Programm deinstallieren: [Windows 7: Tutorial Programme deinstallieren und löschen](http://www.youtube.com/watch?v=dg8b5A_jHdM)<br>
+Sehen Sie sich folgendes Video an, um zu lernen, wie man Programme installiert und deinstalliert: [Windows 7: Tutorial Programme deinstallieren und löschen](http://www.youtube.com/watch?v=dg8b5A_jHdM)<br>
 
