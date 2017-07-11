@@ -14,7 +14,7 @@ Anders sieht es aus, wenn jemand ein Fotobuch macht über die letzten Ferien und
 ![Bild](http://tacamo.ch/byod/resources/art19.jpg)<br>
 
 **Urheberrecht und social media**<br>
-Wenn Sie eigene Fotografien auf einer Internetplattform (z.B. facebook) veröffentlichen, dann ist das kein Problem, weil Sie der Urheber der Fotografie sind. Wenn Sie aber fremde Bilder hochladen, die Sie zum Beispiel auf einer Foto-Webseite eines Künstlers heruntergeladen haben, dann verstossen Sie gegen das Urheberrecht. Vorsichtig müssen Sie auch sein, wenn Sie eine eigene Webseite betreiben. Diese darf nur Fotos, Filme und Texte enthalten, von denen Sie entweder der Urheber sind oder von denen Sie eine Bewilligung des Urhebers haben.<br><br>
+Wenn Sie eigene Fotografien auf einer Internetplattform (z.B. facebook) veröffentlichen, dann ist das kein Problem, weil Sie der Urheber der Fotografie sind. Wenn Sie aber fremde Bilder hochladen, die Sie zum Beispiel auf einer Foto-Webseite eines Künstlers heruntergeladen haben, dann verstossen Sie gegen das Urheberrecht. Vorsichtig müssen Sie auch sein, wenn Sie eine eigene Webseite betreiben. Diese darf nur Fotos, Filme und Texte enthalten, von denen Sie entweder der Urheber sind oder von denen Sie eine Bewilligung des Urhebers haben.<br>
 
 **Lizenzen**<br>
 Lizenzen sind Papiere, die den Umgang mit dem Urheberrecht regeln. Lizenzen für ein bestimmtes Werk bekommt man entweder gegen Geld, unter bestimmten Bedingungen oder einfach so gratis und ohne Bedingungen. Wenn eine Radiostation ein Lied abspielt, dann muss sie eine Lizenzgebühr an den Künstler bezahlen. Das Gleiche gilt zum Beispiel auch für Openair-Kinos. Diese bezahlen eine Lizenzgebühr an die Firma, die den Film gemacht hat und das Urheberrecht besitzt.
