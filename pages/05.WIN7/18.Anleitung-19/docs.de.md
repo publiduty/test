@@ -1,5 +1,5 @@
 ---
-title: 'Bildbearbeitung Win7'
+title: '18. Bildbearbeitung Win7'
 taxonomy:
     category:
         - docs
