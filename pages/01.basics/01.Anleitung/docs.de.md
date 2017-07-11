@@ -12,7 +12,7 @@ Sie lernen nur dort, wo Sie Lücken haben und übergehen das, was Sie bereits wi
 >**Achtung:** Der Mensch neigt natürlicherweise zur Selbstüberschätzung. Gehen Sie nicht leichtfertig über Posten hinweg. Sie müssen alle Nachweise erbringen, also auch die Nachweise der Posten, die Sie nicht vollständig bearbeitet haben.
 
 **Aufbau und Navigation**<br>
-Die Werkstatt umfasst 22 Posten. Grundsätzlich ist es nicht wichtig, bei welchem Posten Sie anfangen. Vor allem für Lernende mit grossen Lücken ist es am einfachsten, wenn Sie die Posten in der vorgegebenen Reihenfolge absolvieren. Sie haben sich dann jeweils in den vorhergehenden Posten Wissen und Können angeeignet, das Sie in den darauf folgenden Posten brauchen können.
+Die Werkstatt umfasst 22 Posten. Bitte gehen Sie die Posten der Reihe nach durch, einige Posten basieren auf dem Vorwissen der vorhergehenden Posten.
 
 **Die Posten**<br>
 Auf jeder Postenseite finden Sie farbig gekennzeichnete Abschnitte:
