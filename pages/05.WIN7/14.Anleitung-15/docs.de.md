@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können die gängigen Dateiformate mit einem Passwort schützen.<br>- Sie können Ihr Gerät mit einem Passwort schützen.
+!!! **Ziele:** <br>- Sie können die gängigen Dateiformate mit einem Passwort schützen.<br>- Sie können Ihr Gerät mit einem Passwort schützen.
 **Dateien schützen**<br>
 Gelegentlich gibt es Daten, die sehr heikel sind, zum Beispiel ein Textdokument mit Passwörtern oder eine Tabelle mit Kundendaten oder ein Mitarbeiterqualifikation mit Lohndaten. Auch Mitgliederlisten eines Vereins oder einer Kirche sind sensibel und der Schutz solcher Daten ist im Gesetz vorgeschrieben (Art. 7 Bundesgesetz über den Datenschutz DSG).<br><br>
 Ein Dokument zu schützen ist einfach, weil man mit allen gängigen Programmen ein Passwort setzen kann. Wählen Sie das Programm aus, das Sie selber benutzen und informieren Sie sich!:<br>
