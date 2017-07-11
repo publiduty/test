@@ -1,5 +1,5 @@
 ---
-title: '8. Gerätpasswort Win7'
+title: '8. Gerätepasswort Win7'
 taxonomy:
     category:
         - docs
