@@ -6,7 +6,6 @@ taxonomy:
 ---
 
 !!! **Ziel:** Sie können die allgemeinen Suchfunktionen der gängigen Suchmaschinen anwenden.
-
 Stellen Sie sich das Internet vor wie die gröddte Bibliothek der Welt: Ein riesiges Gebäude mit 5.000 Stockwerken, mit Millionen Regalen, in denen sich unzählige Seiten, Texte, Bücher, Hefte, CDs und DVDs reihen... und Sie müssten alles zum Thema Lehrvertrag finden. Sie hätten keine Chance! Im Internet gibt es zum Glück Suchmaschinen. Dieses Suchmaschinen durchsuchen Tag und Nacht das ganze Internet und speichern nach einem bestimmten Muster Wörter und Links. Wenn man einer Suchmaschine eine Frage stellt, dann kann diese einem die Internetseiten auflisten, die der Frage am besten entsprechen. Aber Maschinen sind Maschinen und keine Menschen und sind darum grundsätzlich ziemlich dumm, weil ihnen viele Sinne fehlen. Darum muss man etwas speziell mit ihnen umgehen, um Erfolg zu haben.<br>
 **Suchbegriffe statt Sätze**<br>
 Einem Bibliothekar können Sie Frage stellen: Wo sind die Gesetzestexte zum Lehrvertrag? Eine Suchmaschine kann damit nicht viel anfangen. Für sie sind die Bausteine eines Satzes unwichtig, die wir zum genauen Verständnis brauchen. Eine Suchmaschine funktioniert gut, wenn wir die Suchbegriffe auf das Nötigste reduzieren. Mit den zwei Wörtern *Gesetzestexte* und *Lehrvertrag* gibt die Suchmaschine bessere Resultate aus, als wenn man den ganzen Satz eingibt.<br>
