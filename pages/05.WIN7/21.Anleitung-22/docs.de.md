@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können erklären, was *Privatsphäre* bedeutet.<br>- Sie können Massnahmen ergreifen, um Ihre Privatsphäre zu schätzen.<br>-Sie können eine Strategie für Ihren Umgang mit Geheimnissen und Privatangelegenheiten formulieren.
+!!! **Ziel:** Sie können erklären, was *Privatsphäre* bedeutet.<br> Sie können Massnahmen ergreifen, um Ihre Privatsphäre zu schätzen.<br> Sie können eine Strategie für Ihren Umgang mit Geheimnissen und Privatangelegenheiten formulieren.
 
 **Privatsache**
 Es gibt Dinge, die gehen niemanden etwas an! Vor allem Themen wie Liebe, Geld, Sexualität und Gesundheit sind sehr heikel. Diese Geheimnisse schützen wir natürlich. Wir erzählen sie nur unseren Freunden. Es gibt neben den Geheimnissen noch Dinge, die gehen nicht alle etwas an, aber sie sind nicht Geheimnisse im eigentlichen Sinn. Zum Beispiel Informationen, wie eine Geburtstagsparty verlief und wer da wie drauf war oder wer zuviel getrunken hat. Das sind keine Geheimnisse. Schon darum nicht, weil sie in einer Gruppe - also in einer Art Öffentlichkeit - passiert sind. Aber trotzdem will man nicht, dass die dort gemachten Fotos schutzlos allen zugänglich im Internet kursieren, denn der Arbeitgeber oder die Eltern bewegen sich auch im Internet.
