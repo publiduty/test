@@ -24,7 +24,7 @@ Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten u
 
 !! **Auftrag:** Arbeiten Sie sich durch die [Einführung](https://www.google.ch/drive/about.html|) von GoogleDrive!<br>
 
-!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
+!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
 
 
