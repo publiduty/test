@@ -15,7 +15,7 @@ Sie lernen nur dort, wo Sie Lücken haben und übergehen das, was Sie bereits wi
 Die Werkstatt umfasst 24 Posten. Grundsätzlich ist es nicht wichtig, bei welchem Posten Sie anfangen. Vor allem für Lernende mit grossen Lücken ist es am einfachsten, wenn Sie die Posten in der vorgegebenen Reihenfolge absolvieren. Sie haben sich dann jeweils in den vorhergehenden Posten Wissen und Können angeeignet, das Sie in den darauf folgenden Posten brauchen können.
 
 **Die Posten**<br>
-Auf jeder Postenseite finden SIe farbig gekennzeichnete Abschnitte:
+Auf jeder Postenseite finden Sie farbig gekennzeichnete Abschnitte:
  
 !!! **Ziel:** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter arbeiten!
 
