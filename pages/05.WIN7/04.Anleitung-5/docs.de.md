@@ -18,7 +18,7 @@ Firefox: [Firefox, Favoriten und Lesezeichen Symbolleiste optimaleinsetzen](http
 Google Chrome: [Chrome - Lesezeichen setzen](https://www.youtube.com/watch?v=QS4xEEwesj4|Google)<br>
 Internet Explorer: [Internet Explorer: Lesezeichen (Favoriten) anlegen](https://www.youtube.com/watch?v=jboLpnKXhUg|)<br>
 
-!! **Auftrag:** Setzen Sie eine eigene Startseite und legen Sie einige Lesezeichen an! Zeigen Sie beides Ihrer Lehrperson!
+!! **Auftrag:** Legen Sie einige Lesezeichenordner mit Lesezeichen an! Zeigen Sie diese Ihrer Lehrperson!
 
 
 
