@@ -12,19 +12,19 @@ taxonomy:
 
 **Die Cloud von Windows: OneDrive**
 
-!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=KeY_1C4-wm8) zu OneDrive an!<br><br>
+!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=KeY_1C4-wm8) zu OneDrive an!<br>
 
 !! **Auftrag:**Nehmen Sie die Cloud Ihres Betriebssystems in Betrieb. Zuerst müssen Sie OneDrive [ herunterladen](https://onedrive.live.com/about/de-ch/support). Dann können Sie OneDrive einrichten. Am Schluss demonstrieren Sie diese Ihrer Lehrperson!<br><
 
 **Unabhängige Clouds**<br>
 Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten und vorinstalliert sind, gibt es Cloud, die nicht von einem bestimmten Betriebssystem abhängig sind. Eine bekannte Cloud ist die Dropbox. <br>
-!! **Auftrag:**Arbeiten Sie sich durch die [Einführungstour](https://www.dropbox.com/tour/0|) von Dropbox!<br>
+!! **Auftrag:** Arbeiten Sie sich durch die [Einführungstour](https://www.dropbox.com/tour/0|) von Dropbox!<br>
 
-!! **Freiwilliger Zusatzauftrag:**Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
+!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
-!! **Auftrag:**Arbeiten Sie sich durch die [Einführung](https://www.google.ch/drive/about.html|) von GoogleDrive!<br><br><br>
+!! **Auftrag:** Arbeiten Sie sich durch die [Einführung](https://www.google.ch/drive/about.html|) von GoogleDrive!<br>
 
-!! **Freiwilliger Zusatzauftrag:**Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
+!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br><br><br>
 
 
 
