@@ -9,7 +9,7 @@ taxonomy:
 
 **Einstellungen**<br>
 Der Titel des Postens ist eigentlich etwas missverständlich. An Ihrem Gerät können Sie nämlich in der Regel fast keine Einstellungen machen. Neben der Tastatur hat ein Notebook in der Regel nur noch einen Startknopf. Mit Einstellungen sind die Einstellungen am Betriebssystem gemeint. Es gibt sehr viele Einstellungen am Betriebssystem. Wir konzentrieren uns auf die wichtigsten:<br><br>
-*Benutzerverwaltung*<br>
+>*Benutzerverwaltung*<br>
 *Bildschirmeinstellungen*<br>
 *Netzwerk*<br>
 *Passwort*<br>
