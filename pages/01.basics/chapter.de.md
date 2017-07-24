@@ -13,4 +13,3 @@ child_type: docs
 Bitte lesen Sie die **Einführung** auf der nächsten Seite!
 ![Bild](http://tacamo.ch/byod/resources/logos.jpg)
 ###### <center>ⓒ GIBB / IDM</center>
-<center>ⓒ GIBB / IDM</center>
