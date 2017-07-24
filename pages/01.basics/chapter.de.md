@@ -11,5 +11,5 @@ child_type: docs
 # Werkstatt
 
 Bitte lesen Sie die **Einführung** auf der nächsten Seite!
-![Bild](http://tacamo.ch/byod/resources/logos.jpg)
+![Bild](http://tacamo.ch/byod/resources/logos.jpg)<br>
 ###### <center>ⓒ GIBB / IDM</center>
