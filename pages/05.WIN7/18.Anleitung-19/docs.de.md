@@ -20,7 +20,7 @@ Dieser Werkstattposten geht nur auf das Zuschneiden von Fotos ein. Damit das mö
 
 !! **Auftrag:** Machen Sie ein Foto mit Ihrem Mobiltelefon oder einer Kamera und importieren Sie das Bild in Ihren Computer. Schneiden sie einen Teil des Fotos aus und mailen Sie das ausgeschnittene und das originale Bild Ihrer Lehrperson. Der Betreff der Mail muss *Foto zuschneiden* lauten!<br>
 
-!! **Freiwilliger Zusatzauftrag:** Suchen Sie im Internet ein Gratisprogramm, mit dem ebefalls einfache Bildbearbeitung gemacht werden kann!
+! **Freiwilliger Zusatzauftrag:** Suchen Sie im Internet ein Gratisprogramm, mit dem ebefalls einfache Bildbearbeitung gemacht werden kann!
 
 
 
