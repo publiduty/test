@@ -11,4 +11,4 @@ Das PDF-Format ist speziell. Es ist nämlich ein Format, das von *allen* Betrieb
 Mit dem Online PDF Converter [Online PDF Converter](https://online2pdf.com/de/) können Sie einfach Dokumete in PDFs konvertieren.<br>
 !! **Auftrag:** Erstellen Sie aus einer Worddatei mit dem [Online PDF Converter](https://online2pdf.com/de/) ein PDF und mailen Sie es der Lehrperson!
 Manchmal ist es auch praktisch, wenn man ein PDF in ein Worddokument umwandeln kann.
-!! **Auftrag:** Erstellen Sie aus dem PDF, das sie erzeugt haben mit Hilfe des [Online PDF Converter](https://online2pdf.com/de/) eine Worddatei!
+!! **Auftrag:** Erstellen Sie aus dem PDF, das sie erzeugt haben mit Hilfe des [Online PDF Converters](https://online2pdf.com/de/) eine Worddatei!
