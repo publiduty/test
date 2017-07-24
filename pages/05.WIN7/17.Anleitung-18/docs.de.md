@@ -20,7 +20,7 @@ Wenn Sie eigene Fotografien auf einer Internetplattform (z.B. facebook) veröffe
 Lizenzen sind Papiere, die den Umgang mit dem Urheberrecht regeln. Lizenzen für ein bestimmtes Werk bekommt man entweder gegen Geld, unter bestimmten Bedingungen oder einfach so gratis und ohne Bedingungen. Wenn eine Radiostation ein Lied abspielt, dann muss sie eine Lizenzgebühr an den Künstler bezahlen. Das Gleiche gilt zum Beispiel auch für Openair-Kinos. Diese bezahlen eine Lizenzgebühr an die Firma, die den Film gemacht hat und das Urheberrecht besitzt.
 Es gibt aber auch Lizenzen, die nichts kosten, sondern an Bedingungen geknüpft sind. Zum Beispiel finden Sie zu jedem Wikipedia-Text die Lizenzbedingungen in der Regel unten auf der Seite. <br>
 
-!! **Auftrag:** Besuchen Sie die Wikipedia-Seite zu [Bio-Diesel](http://de.wikipedia.org/wiki/Biodiesel)!
+!! **Auftrag:** Besuchen Sie die Wikipedia-Seite zu [Bio-Diesel!](http://de.wikipedia.org/wiki/Biodiesel)
 
 Suchen Sie die Lizenzbedingungen zu diesem Text. Schreiben Sie Ihrer Lehrperson eine Mail mit dem Betreff *Lizenzen* und beantworten Sie folgende Frage: Darf eine Autogarage den Wikipedia-Text zum Bio-Diesel kopieren und in der Ausstellungshalle neben den Diesel-Fahrzeugen auflegen? Was muss die Autogarage dabei beachten?<br>
 >*Hinweis*: Wie oben beschrieben finden Sie die Lizenzbedingungen bei Wikipedia in der Regel unten auf der Seite. Wenn Sie auf den Lizenz-Link klicken, dann erscheint ein Text, der von Juristen für Juristen geschrieben wurde. Das ist etwa wie Chinesisch, ausser dass es wie Deutsch aussieht. Beachten Sie, dass es ganz oben auf der Seite mit dem Lizenz-Text einen Link gibt, der zu einer stark vereinfachten Version des Textes führt. Nutzen Sie diesen Text zur Auftragserfüllung!<br>
@@ -29,7 +29,7 @@ Besuchen Sie die Webseite [www.pixelio.de](http://www.pixelio.de)! Diese Seite b
 Es gibt auch Werke, deren Lizenz an gar keine Bedingung geknüpft ist, das heisst, man kann diese Bilder für alle Zwecke ohne Einschränkung benutzen. Diese Lizenz nennt man *public domain*.<br>
 
 **Lizenzfrei Bilder suchen**<br>
-Google bietet mit der [erweiterten Bildersuche](http://www.google.ch/advanced_image_search|) die Möglichkeit, Bilder gezielt nach Lizenz zu suchen: <br>
+Google bietet mit der [erweiterten Bildersuche](https://www.google.ch/advanced_image_search?q=bilder&biw=1544&bih=1287&tbm=isch&hl=de|) die Möglichkeit, Bilder gezielt nach Lizenz zu suchen: <br>
 
 **Facebook**<br>
 Facebook hat spezielle Nutzungsrechte. Wenn Sie Inhalte, wie zum Beispiel Fotos und Videos, auf Facebook laden, so übergeben Sie damit auch gleich die Lizenzrechte an Facebook. Facebook kann damit alles machen. Zum Beispiel kann Facebook diese Bilder verkaufen oder ins Internet stellen, ja sogar als Plakat aufhängen, wo immer Facebook das tun möchte. Das gilt für alle Inhalte, die Sie hochladen. Also dürfen Sie unter keinen Umständen Inhalte hochladen, die irgendeiner Lizenz, ausser der public domain, unterworfen sind, da Sie sonst Facebook Rechte übergeben, die Sie gar nicht haben.<br>
