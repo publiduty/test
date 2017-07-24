@@ -14,6 +14,6 @@ Agenden kennt man als mehr oder weniger dicke Bücher, in die man Termine einsch
 **Elektronische Agenda finden**<br>
 Suchen Sie auf ihrem Gerät die elektronische Agenda. Windows 8 nennt diese *Kalender*, Window 7 hat nicht in jeder Version eine elektronische Agenda integriert. Wenn Sie keine haben, dann laden Sie sich ein Gratisprogramm herunter. Zum Beispiel
 [Kalenderchen](http://www.kalenderchen.de/download.php),
-[Windows Live Mail](www.chip.de/downloads/Windows-Live-Mail-2012-Nachfolger-von-Out…) mit integriertem Kalender
+[Windows Live Mail](https://windows-live-mail.de.softonic.com) mit integriertem Kalender
 [Terminplaner.NET](http://www.computerbild.de/download/Terminplaner-.NET-3277367.htm)
 !! **Auftrag:** Finden Sie heraus, wie man in Ihrer elektronischen Agenda einen neuen Termin hinzufügt! In vielen Fällen klappt dies mit einem Doppelklick auf den Tag, an dem der Termin eingetragen werden soll. Wenn Sie das geschafft haben, rufen Sie die Lehrperson und demonstrieren ihr die Agenda!<br>
