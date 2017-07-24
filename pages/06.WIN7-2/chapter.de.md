@@ -1,0 +1,15 @@
+---
+title: 'Windows 8'
+taxonomy:
+    category:
+        - docs
+child_type: docs
+---
+
+### Werkstatt
+
+# Windows 7
+
+![Bild](http://tacamo.ch/byod/resources/w7.jpg)
+Entdecken Sie **wichtige** Grundlagen!
+
