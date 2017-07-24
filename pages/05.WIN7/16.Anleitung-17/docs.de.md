@@ -22,7 +22,7 @@ Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten u
 
 !! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
-!! **Auftrag:** Arbeiten Sie sich durch die [Einführung](https://www.google.ch/drive/about.html|) von GoogleDrive!<br>
+!! **Auftrag:** Arbeiten Sie sich durch die [Einführung](https://support.google.com/drive/answer/2424384?co=GENIE.Platform%3DDesktop&hl=de|) von GoogleDrive!<br>
 
 !! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
