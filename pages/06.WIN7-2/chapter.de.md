@@ -8,8 +8,8 @@ child_type: docs
 
 ### Werkstatt
 
-# Windows 7
+# Windows 8
 
-![Bild](http://tacamo.ch/byod/resources/w7.jpg)
+![Bild](http://tacamo.ch/byod/resources/w8.png)
 Entdecken Sie **wichtige** Grundlagen!
 
