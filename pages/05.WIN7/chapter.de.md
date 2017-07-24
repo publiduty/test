@@ -10,5 +10,6 @@ child_type: docs
 
 # Windows 7
 
-Entdecken Sie **wichtige** Grundlagen!
 ![Bild](http://tacamo.ch/byod/resources/w7.jpg)<br>
+Entdecken Sie **wichtige** Grundlagen!
+
