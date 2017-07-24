@@ -20,11 +20,11 @@ taxonomy:
 Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten und vorinstalliert sind, gibt es Cloud, die nicht von einem bestimmten Betriebssystem abhängig sind. Eine bekannte Cloud ist die Dropbox. <br>
 !! **Auftrag:** Arbeiten Sie sich durch die [Einführungstour](https://www.dropbox.com/tour/0|) von Dropbox!<br>
 
-!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
+! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein Dropbox-Konto, installieren Sie die Dropbox-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
 !! **Auftrag:** Arbeiten Sie sich durch die [Einführung](https://support.google.com/drive/answer/2424384?co=GENIE.Platform%3DDesktop&hl=de|) von GoogleDrive!<br>
 
-!! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
+! **Freiwilliger Zusatzauftrag:** Erstellen Sie ein GoogleDrive-Konto, installieren Sie die GoogleDrive-Software auf Ihrem Notebook und Ihrem Mobiltelefon. <br>
 
 
 
