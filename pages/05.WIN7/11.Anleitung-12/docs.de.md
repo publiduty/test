@@ -8,7 +8,7 @@ taxonomy:
 !!! **Ziele:** <br>- Sie können Vorteile und Nachteile verschiedener Speichermedien nennen.<br>- Sie können die eigenen Speichermedien nennen. <br>- Sie können Datenträger umformatieren.
 **Warum eigentlich Speichermedien**<br>
 Wenn wir mit einem Computer arbeiten, dann verändern wir Daten. Das ist alles. Aus einer Fläche mit weissen Punkten machen Sie eine Fläche mit weissen und schwarzen Punkten, wenn zum Beispiel mit dem Programm Word geschrieben wird. Wenn wir diese Daten nicht speichern können, dann verlieren wir sie spätestens, wenn wir den Computer ausschalten.<br>
-Zum Speichern gibt es verschiedene Speichermedien mit Vor- und Nachteilen. Einige sind fest in einem Computer verbaut, andere sind auswechselbar und besser oder schlechter transportierbar. Unten finden Sie Informationen zu den wichtigsten Speichermedien und anschliessend zu den Formatierungen.<br>
+Zum Speichern gibt es verschiedene Speichermedien mit Vor- und Nachteilen. Einige sind fest in einem Computer verbaut, andere sind auswechselbar und besser oder schlechter transportierbar. Unten finden Sie Informationen zu den wichtigsten Speichermedien und anschliessend zu den Formatierungen.<br><br>
 **Speichermedien**<br>
 Ganz, ganz, ganz früher gab es einmal Floppy Discs: Diese Discs hatten eine Speicherkapazität von 1.4MB. Das ist sehr wenig. Früher waren aber auch Betriebssysteme, Programme und Daten viel einfacher und darum auch kleiner. Da haben diese Floppy Discs gereicht. Mit den komplexeren Betriebssystemen, Programmen und Daten ist der benötigte Speicherplatz auch kontinuierlich gewachsen und die Speichermedien haben sich verändern. <br><br>
 **CD, DVD und Blu-ray - die beschichteten Plastikscheiben.**<br>
