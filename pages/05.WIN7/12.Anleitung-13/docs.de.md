@@ -35,6 +35,4 @@ Audio-, Video und Bilderdateien lassen sich einfacher und schneller mit Freeware
 
 !! **Auftrag:** Laden Sie die Dateien *idm.png* herunter. Wandeln Sie das idm-Logo in eine **.jpg**-Datei um. Mailen Sie das jpg der Lehrperson.
 
-![](http://)
-
 
