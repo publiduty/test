@@ -1,5 +1,5 @@
 ---
-title: '01. Betriebssystem Win7'
+title: '01. Betriebssystem Win8'
 taxonomy:
     category:
         - docs
