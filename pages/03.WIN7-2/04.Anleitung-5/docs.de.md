@@ -1,5 +1,5 @@
 ---
-title: '04. Browser Win7'
+title: '04. Browser Win8'
 taxonomy:
     category:
         - docs
