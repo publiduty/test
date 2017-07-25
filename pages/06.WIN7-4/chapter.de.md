@@ -1,5 +1,5 @@
 ---
-title: 'Windows 11'
+title: 'Mac OS X'
 taxonomy:
     category:
         - docs
@@ -8,8 +8,8 @@ child_type: docs
 
 ### Werkstatt
 
-# Windows 10
+# Mac OS X
 
-![Bild](http://tacamo.ch/byod/resources/w10.png)
+![Bild](http://tacamo.ch/byod/resources/osx.jepg)
 Entdecken Sie **wichtige** Grundlagen!
 
