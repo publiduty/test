@@ -1,5 +1,5 @@
 ---
-title: '02. Updates Win7'
+title: '02. Updates Win8'
 taxonomy:
     category:
         - docs
