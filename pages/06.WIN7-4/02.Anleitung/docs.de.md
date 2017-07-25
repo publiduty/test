@@ -9,7 +9,7 @@ taxonomy:
 
 Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu werden von den jeweiligen Anbietern (Microsoft, Apple, ...) Systemupdates bereit gestellt. 
 
-Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinstalliert. Die Einstellungen für das Programm werden so vorgenommen:
+Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinstalliert. Die Einstellungen für das Programm werden so vorgenommen:<br>
 *Systemeinstellungen öffnen*<br>
 *App Store klicken*<br>
 ![Bild](http://tacamo.ch/byod/resources/71.jpg)
