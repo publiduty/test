@@ -10,6 +10,6 @@ child_type: docs
 
 # Mac OS X
 
-![Bild](http://tacamo.ch/byod/resources/osx.jepg)
+![Bild](http://tacamo.ch/byod/resources/osx.jpeg)
 Entdecken Sie **wichtige** Grundlagen!
 
