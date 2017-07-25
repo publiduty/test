@@ -1,5 +1,5 @@
 ---
-title: 'Windows 9'
+title: 'Windows 10'
 taxonomy:
     category:
         - docs
