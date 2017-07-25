@@ -1,5 +1,5 @@
 ---
-title: '02. Updates OS X'
+title: '02. Updates OSX'
 taxonomy:
     category:
         - docs
