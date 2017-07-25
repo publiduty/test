@@ -22,11 +22,3 @@ Apple kann Updates manuell oder automatisch ausführen. Standardmässig werden U
 
 !! **Auftrag:** Entscheiden Sie sich für eine Einstellung und begründen Sie die Entscheidung mündlich Ihrer Lehrperson!
 
-
-
-Folgen Sie dieser [Anleitung](http://techfrage.de/question/12154/windows-10-neustart-nach-update-verhindern), um Updates zu steuern!
-
-
-!! **Auftrag:** Entscheiden Sie sich für eine Einstellung und begründen Sie die Entscheidung mündlich Ihrer Lehrperson!
-
-
