@@ -1,5 +1,5 @@
 ---
-title: '11. Speichermedien Win8'
+title: '11. Speichermedien Win10'
 taxonomy:
     category:
         - docs
