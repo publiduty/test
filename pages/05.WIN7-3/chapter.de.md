@@ -8,8 +8,8 @@ child_type: docs
 
 ### Werkstatt
 
-# Windows 8
+# Windows 10
 
-![Bild](http://tacamo.ch/byod/resources/w8.png)
+![Bild](http://tacamo.ch/byod/resources/w10.png)
 Entdecken Sie **wichtige** Grundlagen!
 
