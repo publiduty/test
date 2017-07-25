@@ -15,7 +15,7 @@ Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die
 Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
 Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
 
->*Start > Einstellungen > Systemsteuerung > System > Allgemein*<br>
+>*Startbildschirm > winver eintippen > winver-App klicken<br>*<br>
 
 Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
 
