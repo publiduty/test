@@ -1,5 +1,5 @@
 ---
-title: '10. Datenstruktur Win8'
+title: '10. Datenstruktur Win10'
 taxonomy:
     category:
         - docs
