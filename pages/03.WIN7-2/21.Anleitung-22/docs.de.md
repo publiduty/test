@@ -1,5 +1,5 @@
 ---
-title: '21. Privatsphäre Win7'
+title: '21. Privatsphäre Win8'
 taxonomy:
     category:
         - docs
