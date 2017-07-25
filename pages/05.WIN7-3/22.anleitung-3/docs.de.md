@@ -1,5 +1,5 @@
 ---
-title: '22. Recovery Win8'
+title: '22. Recovery Win10'
 taxonomy:
     category:
         - docs
