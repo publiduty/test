@@ -1,5 +1,5 @@
 ---
-title: '06. Einstellungen Win8'
+title: '06. Einstellungen Win10'
 taxonomy:
     category:
         - docs
