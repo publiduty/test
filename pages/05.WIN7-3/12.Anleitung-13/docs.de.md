@@ -11,8 +11,7 @@ taxonomy:
 Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil ist der eigentliche Name, der frei gewählt werden kann. Der zweite, durch einen Punkt abgetrennte Teil gibt an, mit welchem Programm die Datei erstellt wurde. Das ist wichtig, Daten nur mit dem gleichen oder einem ähnlichen Programmen weiter benutzt werden können. Den zweiten Teil des Dateinamens bezeichnet man auch als Dateiendung oder **Suffix**. Ist die Dateiendung weg, erkennt der Computer manchmal nicht mehr, mit welchem Programm eine Datei geöffnet werden soll. <br>
 
 **Datei einem Programm zuordnen**<br>
-Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen:<br>
-Windows: [Windows 10 Dokumente öffnen, speichern und schlieﬂen (ab 6. Minute)](https://www.youtube.com/watch?v=BUodPF5JPs0)<br>
+Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen: [Video](https://www.youtube.com/watch?v=RLzR7M_xC3c)<br>
 
 **Dateiendungen zum auswendig lernen**<br>
 Es gibt Dateiendungen, die man auswendig kennen muss:<br>
