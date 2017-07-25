@@ -1,5 +1,5 @@
 ---
-title: '21. Privatsphäre Win8'
+title: '21. Privatsphäre Win10'
 taxonomy:
     category:
         - docs
