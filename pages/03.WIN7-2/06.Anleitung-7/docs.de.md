@@ -1,5 +1,5 @@
 ---
-title: '06. Einstellungen Win7'
+title: '06. Einstellungen Win8'
 taxonomy:
     category:
         - docs
@@ -18,7 +18,7 @@ Der Titel des Postens ist eigentlich etwas missverständlich. An Ihrem Gerät k�
 
 Die Einstellungen sind bei den zwei Betriebssystem Mac und Windows so verschieden, dass der Posten sich hier trennt: Wer ein Mac-Gerät benutzt, kann den Windows-Teil überspringen und umgekehrt.<br><br>
 **Einstellungen am Windows Betriebssystem**<br>
-Die Einstellungen heissen in Windows Systemsteuerung. In **Windows 7** greifen Sie über den Startbutton auf die Systemsteuerung zu. Bei Windows 8 gelangen Sie über den Startbildschirm dorthin. Wenn Sie die **Kachel** nicht finden, dann rechte Maustaste *> Alle Apps > rechter Mausklick auf Systemsteuerung > An Start anheften. *<br><br>
+Die Einstellungen heissen in Windows Systemsteuerung. Sie gelangen über den Startbildschirm dorthin. Wenn Sie die *Kachel* nicht finden, dann klicken Sie die rechte Maustaste *> Alle Apps > rechter Mausklick auf Systemsteuerung > An Start anheften.*<br><br>
 Die **Benutzerverwaltung** findet man unter dem Menübefehl Benutzerkonten und Family Safety. Um einen Benutzer anzulegen, klicken Sie auf Benutzerkonten  *> Anderes Konto verwalten.* Nun sehen Sie alle Benutzer und können einen neuen Benutzer hinzufügen. (In Windows 8 macht man dann einen Ausflug in die PC-Einstellungen).  In beiden OS-Versionen ändern Sie das Passwort in den Benutzerkonten.<br><br>
 **Bildschirmeinstellungen**<br> braucht man vor allem dann, wenn man externe Monitore oder Beamer an das Notebook anhängt. Nach dem Einstecken und Einschalten des externen Monitors oder Beamers wird dieser automatisch erkannt. Mit den Tasten fn und einer Taste aus der obersten Zeile, auf der ein Rechteck zu sehen ist, wechseln sie zwischen dem internen und dem externen Monitor/Beamer. Die Taste mit dem Rechteck ist bei einem Notebook von Lenovo F7, Fujitsu F10, Acer F5, und bei Dell F8. Manchmal ist das aber auch ganz anders. Der jeweils andere Monitor/Beamer bleibt schwarz. Beim dritten Drücken der rechteckigen Taste wird auf beiden Monitoren das gleiche Bild angezeigt, wobei der interne Bildschirm dem Seitenverhältnis des externen Monitors/Beamers angepasst wird. In der Systemsteuerung kann nun die Bildschirmauflösung bearbeitet werden, wenn das nötig ist. Diese Einstellungen finden Sie unter Darstellung und Anpassungen. Als Auflösung bezeichnet man die Anzahl Punkte in der Breite und in der Höhe, die auf einem Bildschirm dargestellt werden. Jeder Bildschirm oder Beamer hat durch seinen Aufbau und seine Bauart eine nicht veränderbare Anzahl Bildpunkte in der Breite und in der Höhe. Wird die falsche Auflösung eingestellt, dann wird das Bild schlecht, egal, ob man eine zu hohe oder zu tiefe Auflösung wählt. Die Auflösung kann man einstellen: Darstellung und Anpassungen *> Anzeige > Bildschirmauflösung.* <br>
 !! **Auftrag:** Hängen Sie den Beamer im Klassenzimmer oder einen externen Bildschirm an Ihr Gerät und stellen Sie die Auflösung des Beamers richtig ein! Rufen Sie anschliessend die Lehrperson zu sich und erklären Sie die gewählten Einstellungen!<br>
