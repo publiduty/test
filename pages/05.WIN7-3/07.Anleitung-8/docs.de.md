@@ -1,5 +1,5 @@
 ---
-title: '07. Passwörter Win0'
+title: '07. Passwörter Win10'
 taxonomy:
     category:
         - docs
