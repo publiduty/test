@@ -1,5 +1,5 @@
 ---
-title: '20. Agenda Win7'
+title: '20. Agenda Win8'
 taxonomy:
     category:
         - docs
@@ -12,7 +12,7 @@ Agenden kennt man als mehr oder weniger dicke Bücher, in die man Termine einsch
 *Elektronische Agenden kann man backupen.*<br>
 *Elektronische Agenden können Termine per Mail versenden.*<br>
 **Elektronische Agenda finden**<br>
-Suchen Sie auf ihrem Gerät die elektronische Agenda. Windows 8 nennt diese *Kalender*, Window 7 hat nicht in jeder Version eine elektronische Agenda integriert. Wenn Sie keine haben, dann laden Sie sich ein Gratisprogramm herunter. Zum Beispiel
+Suchen Sie auf Ihrem Gerät die Agenda-App. Windows 8 nennt diese App *Kalender*. Es gibt verschiedene Gratisprgramme, die Sie ausprobieren könne:
 [Kalenderchen](http://www.kalenderchen.de/download.php),
 [Windows Live Mail](https://windows-live-mail.de.softonic.com) mit integriertem Kalender
 [Terminplaner.NET](https://terminplanernet.de/terminplaner)
