@@ -1,5 +1,5 @@
 ---
-title: '16. Clouds Win7'
+title: '16. Clouds Win8'
 taxonomy:
     category:
         - docs
@@ -12,9 +12,9 @@ taxonomy:
 
 **Die Cloud von Windows: OneDrive**
 
-!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=w_3OrgAm-eM) zu OneDrive an!<br>
+!! **Auftrag:** Schauen Sie nun den folgenden [Video](https://www.youtube.com/watch?v=KeY_1C4-wm8) zu OneDrive an!<br>
 
-!! **Auftrag:** Nehmen Sie die Cloud Ihres Betriebssystems in Betrieb. Zuerst müssen Sie OneDrive [ herunterladen](https://onedrive.live.com/about/de-ch/support). Dann können Sie OneDrive einrichten. Am Schluss demonstrieren Sie diese Ihrer Lehrperson!<br>
+!! **Auftrag:** Nehmen Sie die Cloud Ihres Betriebssystems in Betrieb. OneDrive ist auf Ihrem Notebook bereits vorinstalliert. Demonstrieren Sie anschliessend die funktionierende Cloud Ihrer Lehrperson!<br>
 
 **Unabhängige Clouds**<br>
 Neben den Cloud, die speziell für ein bestimmtes Betriebssystem zugeschnitten und vorinstalliert sind, gibt es Cloud, die nicht von einem bestimmten Betriebssystem abhängig sind. Eine bekannte Cloud ist die Dropbox. <br>
