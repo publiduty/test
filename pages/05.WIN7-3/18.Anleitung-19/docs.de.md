@@ -1,5 +1,5 @@
 ---
-title: '18. Bildbearbeitung Win8'
+title: '18. Bildbearbeitung Win10'
 taxonomy:
     category:
         - docs
