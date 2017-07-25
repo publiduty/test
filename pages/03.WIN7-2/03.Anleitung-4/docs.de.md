@@ -18,6 +18,6 @@ Dateien und Programme, die man regelmässig braucht, sind irgendwo in der Datens
 **Weitere Schreibtischelemente**<br>
 Unter Windows gibt es weitere Verknüpfungsmöglichkeiten:
 Man kann neben Dateien auch Programme als Verknüpfungen auf dem Schreibtisch ablegen. [Webseiten und Dateien verknüpfen](https://www.youtube.com/watch?v=1VEcw2zKmXc)<br>
-Das Startmenu unter Windows 7 kann angepasst werden: [Windows 7 - Startmenü anpassen](https://www.youtube.com/watch?v=eJE7zbwLEFU|)
+Windows 8 verfügt über einen völlig neuen Startbildschirm, wo Apps, Verknüpfungen und Programme organisiert werden können: [Windows 8: Einführung in die Oberfläche](http://www.youtube.com/watch?v=h5HKtBahd5g|)
 
 !! **Auftrag:** Nutzen Sie mindestens ein Bildschirm-Element, zum Beispiel Verknüpfungen oder eine der Möglichkeiten, die Ihr Betriebssystem bietet. Zeigen Sie dann Ihren Schreibtisch der Lehrperson und erklären Sie!
