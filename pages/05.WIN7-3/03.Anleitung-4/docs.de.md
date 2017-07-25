@@ -20,9 +20,4 @@ Das Startmenü wird geöffnet, wenn Sie die Windows-Taste drücken. Die Inhalte 
 **Die Verknüpfung**<br>
 Dateien und Programme, die man regelmässig braucht, sind irgendwo in der Datenstruktur abgelegt. Nehmen wir an, Sie brauchen regelmässig die Datei mit einem Vokabeltrainer in der Schule. Diese legen Sie in Ihrer logisch aufgebauten Dateistruktur ab: *Eigene Dateien > Schule > Englisch > Vokabeln > Trainer.exe*. Es ist mühsam, wenn Sie sich immer wieder durch dieselben Ordner klicken müssen, bis Sie bei der Datei *Trainer.exe* angekommen sind. In allen Betriebssystemen ist es möglich Verknüpfungen anzulegen. Verknüpfungen sind Symbole, die als direkter Link zu der gewünschten Datei funktionieren. Statt sich mehrmals durch die Datenstruktur zu klicken, können Sie die Verknüpfung auf dem Schreibtisch oder an einem anderen günstigen Ort ablegen. Anstatt den langen Pfad durchzuklicken, müssen Sie nur noch auf die Verknüpfung wählen. Im folgenden Videos sehen Sie, wie Verknüpfungen angelegt werden: [Verknüpfungen erstellen](http://www.youtube.com/watch?v=38DslYr28nw)
 
-**Weitere Schreibtischelemente**<br>
-Unter Windows gibt es weitere Verknüpfungsmöglichkeiten:
-Man kann neben Dateien auch Programme als Verknüpfungen auf dem Schreibtisch ablegen. [Webseiten und Dateien verknüpfen](https://www.youtube.com/watch?v=1VEcw2zKmXc)<br>
-Windows 8 verfügt über einen völlig neuen Startbildschirm, wo Apps, Verknüpfungen und Programme organisiert werden können: [Windows 8: Einführung in die Oberfläche](http://www.youtube.com/watch?v=h5HKtBahd5g|)
-
 !! **Auftrag:** Passen Sie den Schreibtisch, die Taskleiste und das Startmenü ihren Bedürfnissen an und erklären Sie der Lehrperson anschliessend, was Sie verändert haben!
