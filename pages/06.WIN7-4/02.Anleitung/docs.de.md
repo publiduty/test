@@ -15,9 +15,9 @@ Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinsta
 ![Bild](http://tacamo.ch/byod/resources/71.jpg)
 
 Apple kann Updates manuell oder automatisch ausführen. Standardmässig werden Updates automatisch durchgeführt. Wenn Sie selber nach Updates suchen und denn Zeitpunkt selber bestimmen wollen, dann klicken Sie:<br>
-*Apfel-Logo oben links
-*App Store
-*Es werden Ihnen nun alle verfügbaren Updates angezeigt und Sie können diese einzeln auswählen. Auch viele Apple-Programme können so aktualisiert werden.*<br><br>
+*Apfel-Logo oben links<br><br>
+*App Store<br>
+*Es werden Ihnen nun alle verfügbaren Updates angezeigt und Sie können diese einzeln auswählen. Auch viele Apple-Programme können so aktualisiert werden.*<br>
 
 
 !! **Auftrag:** Entscheiden Sie sich für eine Einstellung und begründen Sie die Entscheidung mündlich Ihrer Lehrperson!
