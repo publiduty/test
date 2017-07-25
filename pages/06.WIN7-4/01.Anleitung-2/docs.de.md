@@ -1,5 +1,5 @@
 ---
-title: '01. Betriebssystem Win10'
+title: '01. Betriebssystem OSX'
 taxonomy:
     category:
         - docs
@@ -15,8 +15,7 @@ Ebenfalls sehr verbreitet ist MacOS. MacOS wird nur auf Geräten eingesetzt, die
 Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server (grosse Computer, die nicht für eine Person, sondern für ein ganzes Computernetzwerk da sind) funktionieren mit Linux. Linux ist ein freies Betriebssystem. Es gehört niemandem und alle können es kostenlos nutzen.
 Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
 
->*Drückt Sie Tastenkombination Windows + R, um das Ausführen-Fenster zu öffnen.*<br>
->*Tippt Sie nun den Befehl winver ein und bestätigt mit der Eingabetaste.*<br>
+>*Apfel oben links klicken > über diesen Mac*<br>
 
 Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
 
