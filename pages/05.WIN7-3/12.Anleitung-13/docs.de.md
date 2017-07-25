@@ -12,7 +12,7 @@ Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil 
 
 **Datei einem Programm zuordnen**<br>
 Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen:<br>
-Windows: [Windows 8 Standardprogramme festlegen](https://www.youtube.com/watch?v=6EsrtzS4Cms)<br>
+Windows: [Windows 10 Dokumente öffnen, speichern und schlieﬂen (ab 6. Minute)](https://www.youtube.com/watch?v=BUodPF5JPs0)<br>
 
 **Dateiendungen zum auswendig lernen**<br>
 Es gibt Dateiendungen, die man auswendig kennen muss:<br>
