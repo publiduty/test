@@ -1,5 +1,5 @@
 ---
-title: '14. DokPW Win8'
+title: '14. DokPW Win10'
 taxonomy:
     category:
         - docs
