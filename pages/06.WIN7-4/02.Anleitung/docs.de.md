@@ -12,7 +12,7 @@ Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu w
 Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinstalliert. Die Einstellungen für das Programm werden so vorgenommen:
 *Systemeinstellungen öffnen*
 *App Store klicken*<br>
-[[Bild:systemeinstellungen-app-store.jpg]]
+![Bild](http://tacamo.ch/byod/resources/71.jpeg)
 
 Apple kann Updates manuell oder automatisch ausf¸hren. Standardm‰ssig werden Updates automatisch durchgef¸hrt. Wenn Sie selber nach Updates suchen und denn Zeitpunkt selber bestimmen wollen, dann klicken Sie:<br>
 *Apfel-Logo oben links
