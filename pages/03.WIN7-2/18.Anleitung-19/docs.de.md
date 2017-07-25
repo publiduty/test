@@ -12,7 +12,7 @@ An diesem Posten lernen Sie, wie Sie ein Foto von einer Kamera importieren, zusc
 !! **Auftrag:** Wenn Sie kein Fotobearbeitungsprogramm installiert haben, installieren Sie jetzt die [Windows Fotogalerie](http://www.chip.de/downloads/Windows-Fotogalerie-2012_29177771.html) Teil dieses Pakets.
 
 **importieren - zuschneiden - exportieren**<br>
-Dieser Werkstattposten geht nur auf das Zuschneiden von Fotos ein. Damit das möglich wird, muss das Foto aber zuerst in die Fotogalerie importiert werden. Nachdem das Foto zugeschnitten ist, kann die Datei geschlossen werden. Das neue Bild wird automatisch gespeichert. Diese Schritte werden Ihnen in diesem [Video](https://www.youtube.com/watch?v=95sDcChgleo) erklärt.<br>
+Dieser Werkstattposten geht nur auf das Zuschneiden von Fotos ein. Damit das möglich wird, muss das Foto aber zuerst in die Fotogalerie importiert werden. Nachdem das Foto zugeschnitten ist, kann die Datei geschlossen werden. Das neue Bild wird automatisch gespeichert. Diese Schritte werden Ihnen in diesem [Video](https://www.youtube.com/watch?v=nQhHPfRN9dg) erklärt.<br>
 
 !! **Auftrag:** Machen Sie ein Foto mit Ihrem Mobiltelefon oder einer Kamera und importieren Sie das Bild in Ihren Computer. Schneiden sie einen Teil des Fotos aus und mailen Sie das ausgeschnittene und das originale Bild Ihrer Lehrperson. Der Betreff der Mail muss *Foto zuschneiden* lauten!<br>
 
