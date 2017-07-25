@@ -13,7 +13,7 @@ In diesem Posten geht es aber um die Oberfläche von Windows 10 und die Einstell
 
 **Schreibtisch**<br>
 Mit Schreibtisch ist die Ansicht gemeint, die Sie sehen, wenn Sie keine Programme geöffnet haben. Genau genommen ist das ein Fenster, das man nicht schliessen kann. Ganz unsinnig ist die Bezeichnung Schreibtisch nicht, denn man kann dort Dokumente und Ordner ablegen. Die Programmfenster, mit denen man arbeitet, gehen vor diesem Hintergrund auf. So gesehen ist der Vergleich mit einem Schreibtisch aus Holz, so wie wir das aus dem Schulzimmer kennen, nicht völlig fehl am Platz. Gelegentlich wird für den Schreibtisch auch das englische Wort Desktop verwendet. Auf dem Schreibtisch können Dateien und Verknüpfungen abgelegt werden. Zudem gibt es das Startmenü. Dieses kann angepasst werden.<br><br>
-**Startmen**<br>
+**Startmenü**<br>
 Das Startmenü wird geöffnet, wenn Sie die Windows-Taste drücken. Die Inhalte lassen sich anpassen. Programme, Dateien und andere Inhalte, die Sie oft benutzen, können so angeordnet werden, dass Sie rasch darauf zugreifen können.<br>
 !! **Auftrag:** Lernen Sie in diesem [Video](https://www.youtube.com/watch?v=oy9LD_jU2bI|), wie man das Startmen¸ anpassen kann!
 
