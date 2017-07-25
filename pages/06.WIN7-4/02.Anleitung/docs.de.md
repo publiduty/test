@@ -7,7 +7,7 @@ taxonomy:
 
 !!! **Ziel:** Sie können Updates manuell steuern und können so Arbeitsstörungen im Unterricht und Zuhause vorbeugen.<br>
 
-Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu werden von den jeweiligen Anbietern (Microsoft, Apple, ...) Systemupdates bereit gestellt. 
+Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu werden von den jeweiligen Anbietern (Microsoft, Apple, ...) Systemupdates bereit gestellt.
 
 Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinstalliert. Die Einstellungen für das Programm werden so vorgenommen:<br>
 >*Systemeinstellungen öffnen*<br>
