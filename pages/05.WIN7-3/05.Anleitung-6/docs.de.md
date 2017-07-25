@@ -1,5 +1,5 @@
 ---
-title: '05. Programme Win8'
+title: '05. Programme Win0'
 taxonomy:
     category:
         - docs
@@ -14,4 +14,4 @@ Die Stores der Betriebssysteme installieren die Programm automatisch am richtige
 !! **Auftrag:** Öffnen Sie den Explorer und suchen Sie den Ordner, in dem Programme gespeichert sind und auch alle Programme gespeichert werden sollen, die Sie zukünftig herunterladen. <br>
 Bei Windows sind die Programme in der Regel in folgendem Ordner gespeichert -> C:\Program File oder C:\Programme. <br>
 
-!! **Auftrag:** Sehen Sie sich folgenden Video an, um zu lernen, wie Programme aus dem Store unter Windows 8 installiert werden : [Windows 8 - Apps installieren und deinstallieren](http://www.youtube.com/watch?v=jUCRFCMEJk8|). Wenn Sie ein Programm installieren wollen, das nicht aus dem Store stammt, dann müssen Sie die Einstellungen anpassen: [Unter Windows 8 nicht signierte Apps installieren](http://www.youtube.com/watch?v=cvwheofYtrE|)
+!! **Auftrag:** Sehen Sie sich folgenden [Video](https://www.youtube.com/watch?v=va_AWcpfkjM) an, um zu lernen, wie Programme aus dem Store  installiert werden, Sehen Sie sich diesen [Video](https://www.youtube.com/watch?v=aQ2xRfsfqro) an, um zu lernen, wie Programme aus dem Store deinstalliert werden.<br>
