@@ -1,5 +1,5 @@
 ---
-title: '19. Suchmaschinen Win8'
+title: '19. Suchmaschinen Win10'
 taxonomy:
     category:
         - docs
