@@ -1,5 +1,5 @@
 ---
-title: '12. Dateiformate Win7'
+title: '12. Dateiformate Win8'
 taxonomy:
     category:
         - docs
@@ -12,7 +12,7 @@ Im Normalfall setzt sich ein Dateiname aus zwei Teilen zusammen. Der erste Teil 
 
 **Datei einem Programm zuordnen**<br>
 Manchmal nützt das Reparieren der Dateiendung nichts oder der Computer öffnet die Datei nicht mit dem gewünschten Programm. So kann man dieses Problem lösen:<br>
-Windows: [Windows 7 - Dateien eines unbekannten Typs öffnen](https://www.youtube.com/watch?v=-5f7TRTI_Ck)<br> Es gibt eine zweite Möglichkeit für den Fall, dass der Computer eine Datei mit einem anderen, als dem gewünschten Programm öffnet: [Standardprogramme festlegen](https://www.youtube.com/watch?v=Gcy-XiwtIsc)
+Windows: [Windows 8 Standardprogramme festlegen](https://www.youtube.com/watch?v=6EsrtzS4Cms)<br>
 
 **Dateiendungen zum auswendig lernen**<br>
 Es gibt Dateiendungen, die man auswendig kennen muss:<br>
