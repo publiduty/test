@@ -16,7 +16,7 @@ Das Betriebssystem Linux ist auf privaten Geräten kaum zu finden. Viele Server 
 Um herauszufinden, welches Betriebssystem Sie **genau** auf dem eigenen Gerät haben, gehen Sie so vor:<br>
 
 >*Drückt Sie Tastenkombination Windows + R, um das Ausführen-Fenster zu öffnen.*<br>
->*Tippt Sie nun den Befehl winver ein und bestätigt mit der Eingabetaste.*<br>
+>*Tippen Sie nun den Befehl winver ein und bestätigt mit der Eingabetaste.*<br>
 
 Nun wissen Sie, mit welchem Betriebssystem Sie arbeiten. Beim nächsten Posten erfahren Sie, wie Sie Ihr Betriebssystem auf dem neuesten Stand halten.
 
