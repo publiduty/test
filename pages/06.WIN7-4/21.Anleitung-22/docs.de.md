@@ -1,5 +1,5 @@
 ---
-title: '21. Privatsphäre Win10'
+title: '21. Privatsphäre OSX'
 taxonomy:
     category:
         - docs
