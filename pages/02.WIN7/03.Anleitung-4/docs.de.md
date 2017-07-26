@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie Effizient arbeiten können.
+!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie effizient arbeiten können.
 
 **Schreibtisch**<br>
 Mit Schreibtisch ist die Ansicht gemeint, die Sie sehen, wenn Sie keine Programme geöffnet haben. Genau genommen ist das ein Fenster, das man nicht schliessen kann. Ganz unsinnig ist die Bezeichnung Schreibtisch nicht, denn man kann dort Dokumente und Ordner ablegen. Die Programmfenster, mit denen man arbeitet, gehen vor diesem Hintergrund auf. So gesehen ist der Vergleich mit einem Schreibtisch aus Holz, so wie wir das aus dem Schulzimmer kennen, nicht völlig fehl am Platz. Gelegentlich wird für den Schreibtisch auch das englische Wort Desktop verwendet. Den Schreibtisch kann man zweckmässig organisieren, damit einem die Arbeit erleichtert wird. Dazu gibt es einige Werkzeuge:
