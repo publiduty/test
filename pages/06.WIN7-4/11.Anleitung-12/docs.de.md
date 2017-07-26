@@ -1,5 +1,5 @@
 ---
-title: '11. Speichermedien Win10'
+title: '11. Speichermedien OSX'
 taxonomy:
     category:
         - docs
