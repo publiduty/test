@@ -1,5 +1,5 @@
 ---
-title: '13. PDF Win10'
+title: '13. PDF OSX'
 taxonomy:
     category:
         - docs
