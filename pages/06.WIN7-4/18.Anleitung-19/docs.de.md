@@ -7,7 +7,7 @@ taxonomy:
 
 !!! **Ziel:** Sie können ein Foto aus einer Kamera importieren, zuschneiden und exportieren.
 
-An diesem Posten lernen Sie, wie Sie ein Foto von einer Kamera importieren, zuschneiden und wieder exportieren, um dieses beispielsweise für eine Bewerbung zu verwenden. Auf Mac OS X ist das Programm *Fotos* bereits vorinstalliert. Es eignet sich, um Bilder zu verwalten und einfache Bearbeitungsschritte auszuführen. Genau, das müssen Sie können. <br><br>
+An diesem Posten lernen Sie, wie Sie ein Foto von einer Kamera importieren, zuschneiden und wieder exportieren, um dieses beispielsweise für eine Bewerbung zu verwenden. Auf Mac OS X ist das Programm *Fotos* bereits vorinstalliert. Es eignet sich, um Bilder zu verwalten und einfache Bearbeitungsschritte auszuführen. Genau, das müssen Sie können. <br>
 
 !! **Auftrag:** Lernen Sie in diesem [Video](https://www.youtube.com/watch?v=j_-lg0olTX8), wie Bilder mit dem Programm *Fotos* verwaltet und bearbeitet werden!
 
