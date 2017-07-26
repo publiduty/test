@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 !!! **Ziel:** Sie können ein beschädigtes Betriebssystem neu aufsetzen und besitzen die dazu notwenigen Daten.<br>
-Wenn das Betriebssystem ausfällt, dann kann man mit dem Computer nicht mehr arbeiten. Meistens zeigt das Notebook dann nur noch einen blauen Bildschirm und reagiert nicht mehr. Darum ist es wichtig zu wissen, wie man ein Betriebssystem reparieren kann, wenn es kaputt ist.<br><br>
+Wenn das Betriebssystem ausfällt, dann kann man mit dem Computer nicht mehr arbeiten. Meistens zeigt das Notebook dann nur noch einen blauen Bildschirm und reagiert nicht mehr. Darum ist es wichtig zu wissen, wie man ein Betriebssystem reparieren kann, wenn es kaputt ist.<br>
 
 **Betriebssystem neu aufsetzen**<br>
 Das Installieren des Betriebssystems ist sehr einfach und braucht keine CD wie bei den PC's mit dem Windows-Betriebssystems. Wichtig: Ihr Computer muss mit dem Internet verbunden sein, damit Sie OS X erneut installieren können.<br>
