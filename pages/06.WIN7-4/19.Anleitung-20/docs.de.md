@@ -1,5 +1,5 @@
 ---
-title: '19. Suchmaschinen Win10'
+title: '19. Suchmaschinen OSX'
 taxonomy:
     category:
         - docs
