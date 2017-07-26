@@ -14,6 +14,9 @@ Sie lernen nur dort, wo Sie Lücken haben und übergehen das, was Sie bereits wi
 **Aufbau und Navigation**<br>
 Die Werkstatt umfasst 22 Posten. Bitte gehen Sie die Posten der Reihe nach durch, einige Posten basieren auf dem Vorwissen der vorhergehenden Posten.
 
+**Videobeiträge**<br>
+Verwenden Sie beim Betrachten der Videos bitte Ihre Kopfhörer.
+
 **Die Posten**<br>
 Auf jeder Postenseite finden Sie farbig gekennzeichnete Abschnitte:
  
