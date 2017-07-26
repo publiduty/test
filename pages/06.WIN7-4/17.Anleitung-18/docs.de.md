@@ -1,5 +1,5 @@
 ---
-title: '17. Urheberrecht Win10'
+title: '17. Urheberrecht OSX'
 taxonomy:
     category:
         - docs
