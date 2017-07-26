@@ -1,5 +1,5 @@
 ---
-title: '15. Backup Win10'
+title: '15. Backup OSX'
 taxonomy:
     category:
         - docs
