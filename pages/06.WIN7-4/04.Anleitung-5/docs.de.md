@@ -1,5 +1,5 @@
 ---
-title: '04. Browser Win10'
+title: '04. Browser OSX'
 taxonomy:
     category:
         - docs
@@ -12,9 +12,9 @@ Die am meisten verbreiteten Browser sind Firefox, Google Chrome, Safari und Inte
 **Browser einrichten - Lesezeichen**<br>
 Alle bisher genannten Browser bieten Lesezeichen-Funktionen an. Lesezeichen sind Links zu Webseiten. Sinnvollerweise legt man Leszeichen an für Webseiten, die man oft braucht. Zum Beispiel ein Lesezeichen zu den Wetterprognosen, die man regelmässig anguckt. Man kann die Lesezeichen strukturieren. Zum Beispiel macht es Sinn alle Lesezeichen zu Clubs in der Stadt in einem Lesezeichen-Ordner abzulegen. Und alle Lesezeichen zu einem Hobby in einem anderen Ordner.<br>
 Lernen Sie mit den folgenden Videos, wie Lesezeichen in Ihrem Browser angelegt werden!<br>
+>Safari: [Einsteiger-Tipps: Safari Favoriten](https://www.youtube.com/watch?v=hA0sX3ytm0I)<br>
 >Firefox: [Firefox, Favoriten und Lesezeichen Symbolleiste optimaleinsetzen](https://www.youtube.com/watch?v=hol0H9hICrg|) <br>
 Google Chrome: [Chrome - Lesezeichen setzen](https://www.youtube.com/watch?v=QS4xEEwesj4|Google)<br>
-Internet Explorer: [Internet Explorer: Lesezeichen (Favoriten) anlegen](https://www.youtube.com/watch?v=jboLpnKXhUg|)<br>
 
 !! **Auftrag:** Legen Sie einige Lesezeichenordner mit Lesezeichen an! Zeigen Sie diese Ihrer Lehrperson!
 
