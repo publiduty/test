@@ -1,5 +1,5 @@
 ---
-title: '07. Passwörter Win10'
+title: '07. Passwörter OSX'
 taxonomy:
     category:
         - docs
