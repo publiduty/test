@@ -1,5 +1,5 @@
 ---
-title: '10. Datenstruktur Win10'
+title: '10. Datenstruktur OSX'
 taxonomy:
     category:
         - docs
