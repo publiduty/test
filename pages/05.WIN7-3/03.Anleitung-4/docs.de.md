@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie Effizient arbeiten können.
+!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie effizient arbeiten können.
 
 **Startbildschirm**<br>
 In diesem Posten geht es aber um die Oberfläche von Windows 10 und die Einstellungsmöglichkeiten am Startbildschirm.<br>
