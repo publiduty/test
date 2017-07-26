@@ -1,5 +1,5 @@
 ---
-title: '06. Einstellungen Win10'
+title: '06. Einstellungen OSX'
 taxonomy:
     category:
         - docs
