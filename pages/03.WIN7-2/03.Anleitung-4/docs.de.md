@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie Effizient arbeiten können.
+!!! **Ziel:** Sie können die Schreibtisch-Elemente Ihres Geräts zweckmässig einrichten, damit Sie effizient arbeiten können.
 
 **Startbildschirm**<br>
 Windows 8 ist als einziges Betriebssystem mit dem Startbildschirm ausgerüstet. In diesem Posten geht es aber um den Schreibtisch. Klicken Sie in Windows 8 auf dem Startbildschirm auf Desktop (die Kachel mit der Blume) um zum Schreibtisch zu kommen. Mehr über den Windows 8 Startbildschirm erfahren Sie hier: [Windows 8 Einführung in die Oberfläche](http://www.youtube.com/watch?v=h5HKtBahd5g|)
