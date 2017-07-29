@@ -1,24 +1,17 @@
 ---
-title: '02. Updates OSX'
+title: '02. Installation'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Sie können Updates manuell steuern und können so Arbeitsstörungen im Unterricht und Zuhause vorbeugen.<br>
+!!! **Ziel:** Sie können Office 365 auf Ihren Geräten installieren.
 
-Betriebssysteme müssen unterhalten werden, sonst sind sie bald veraltet. Dazu werden von den jeweiligen Anbietern (Microsoft, Apple, ...) Systemupdates bereit gestellt.
-Apple verteilt Updates über das Programm *App Store*. Das Programm ist vorinstalliert. Die Einstellungen für das Programm werden so vorgenommen:<br>
+**Lizenzvertrag Office 365?**<br>
+Über die Schullizenz des IDM können Sie Office 365 bis auf 4 Geräten (egal ob Handy, Notebook oder PC) installieren.
 
->*Systemeinstellungen öffnen*<br>
->*App Store klicken*<br>
+Hierzu müssen Sie sich zuerstbei Office 365 einloggen. Falls Sie den Link hierzu nicht zur Hand haben, geht es am besten über: [portal.office.com](https://portal.office.com)
 
-![Bild](http://tacamo.ch/byod/resources/71.jpg)
-Apple kann Updates manuell oder automatisch ausführen. Standardmässig werden Updates automatisch durchgeführt. Wenn Sie selber nach Updates suchen und denn Zeitpunkt selber bestimmen wollen, dann klicken Sie:<br>
 
->*Apfel-Logo oben links*<br>
->*App Store*<br>
->*Es werden Ihnen nun alle verfügbaren Updates angezeigt und Sie können diese einzeln auswählen. Auch viele Apple-Programme können so aktualisiert werden*><br
-
-!! **Auftrag:** Entscheiden Sie sich für eine Einstellung und begründen Sie die Entscheidung mündlich Ihrer Lehrperson!
+!! **Auftrag:** Sehen Sie sich den Video [Was ist Office 365?](https://www.video2brain.com/de/tutorial/was-ist-office-365) an.
 
