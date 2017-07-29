@@ -10,6 +10,6 @@ child_type: docs
 
 # Office 365
 
-![Bild](http://tacamo.ch/byod/resources/osx.jpeg)
+![Bild](http://tacamo.ch/byod/resources/365.jpg)
 Entdecken Sie **wichtige** Grundlagen!
 
