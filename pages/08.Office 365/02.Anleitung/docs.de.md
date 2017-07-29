@@ -13,9 +13,7 @@ taxonomy:
 Hierzu müssen Sie sich zuerst bei Office 365 einloggen. Falls Sie den Link nicht zur Hand haben, geht es am besten über: [portal.office.com](https://portal.office.com)
 
 Danach finden Sie das Installationssymbol oben rechts.
+![Bild](http://tacamo.ch/byod/resources/365_inst.jpg)
 
-![portal.office.com](https://portal.office.com)
-
-
-!! **Auftrag:** Sehen Sie sich den Video [Was ist Office 365?](https://www.video2brain.com/de/tutorial/was-ist-office-365) an.
+!! **Auftrag:** Installieren Sie Office 365 auf Ihrem Gerät, sofern Sie das noch nicht getan haben!
 
