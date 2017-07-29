@@ -1,11 +1,11 @@
 ---
-title: '01. Betriebssystem OSX'
+title: '01. Was ist Office 365'
 taxonomy:
     category:
         - docs
 ---
 
-!!! **Ziel:** Sie können das eigene Betriebssystem korrekt benennen.
+!!! **Ziel:** Sie kennen die Grundlegende Funktionsweise von Office 365.
 
 **Was ist ein Betriebssystem**<br>
 Ein Betriebssystem ist - einfach gesagt - das Programm, das den Computer betreibt. Es ist also dafür verantwortlich, dass zum Beispiel die Tastatur funktioniert und der Bildschirm leuchtet und etwas passiert, wenn man die Maustaste klickt. Ein Computer ohne Betriebssystem ist eine Sammlung aus Plastik und Kupfer und noch einigen anderen Materialien. Sonst nichts.<br>
