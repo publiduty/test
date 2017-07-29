@@ -1,5 +1,5 @@
 ---
-title: '3'
+title: '03. Erste Schritte'
 taxonomy:
     category:
         - docs
