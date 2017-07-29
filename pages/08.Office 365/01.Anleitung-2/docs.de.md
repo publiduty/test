@@ -9,10 +9,10 @@ taxonomy:
 
 **Wie funktioniert Office 365?**<br>
 Früher hat man Programme meistens lokal auf dem Computer installiert. Mit der Entwichlung des Internets werden nun die meisten Programme auch online zur Verfügung gestellt.<br>
-Office 365 gibt es sowohl als Programm zur Installation und als online Programm. Das spezielle daran ist, dass die Daten dabei automatisch synchronisiert werden (zumindest in Windows 10). Das heist, wenn Sie etwas in der Onlienversion von Word schreiben können Sie die Datei auch auf der lokalen Version von Word öffnen. Dabei brauchen Sie nichts zu speichern, das funktioniert automatisch.<br>
-Wichtig dabei ist zu wissen, dass Office 365 noch jung ist und die online Version noch nicht über alle Funktionen der Standardverion verfügt.
+Office 365 gibt es sowohl als Programm zur Installation und als online Programm. Das spezielle daran ist, dass die Daten dabei automatisch synchronisiert werden (zumindest in Windows 10). Das heisst, wenn Sie etwas in der onlien Version von Word schreiben, können Sie die Datei auch auf der lokalen Version von Word öffnen. Dabei brauchen Sie nichts zu speichern, das funktioniert automatisch.<br>
+>Wichtig dabei ist zu wissen, dass Office 365 noch jung ist und die online Version noch nicht über alle Funktionen der Standardverion verfügt.
 
-!! **Auftrag:** Sehen Sie sich den Video [Was ist Office 365](https://www.video2brain.com/de/tutorial/was-ist-office-365) an.
+!! **Auftrag:** Sehen Sie sich den Video [Was ist Office 365?](https://www.video2brain.com/de/tutorial/was-ist-office-365) an.
 
 
 
