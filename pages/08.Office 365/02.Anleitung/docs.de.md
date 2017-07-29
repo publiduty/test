@@ -7,7 +7,7 @@ taxonomy:
 
 !!! **Ziel:** Sie können Office 365 auf Ihren Geräten installieren.
 
-**Lizenzvertrag Office 365?**<br>
+**Lizenzvertrag Office 365**<br>
 Über die Schullizenz des IDM können Sie Office 365 bis auf 4 Geräten (egal ob Handy, Notebook oder PC) installieren.
 
 Hierzu müssen Sie sich zuerst bei Office 365 einloggen. Falls Sie den Link nicht zur Hand haben, geht es am besten über: [portal.office.com](https://portal.office.com)
