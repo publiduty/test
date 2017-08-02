@@ -33,7 +33,7 @@ Google bietet mit der [erweiterten Bildersuche](https://www.google.ch/advanced_i
 
 **Facebook**<br>
 Facebook hat spezielle Nutzungsrechte. Wenn Sie Inhalte, wie zum Beispiel Fotos und Videos, auf Facebook laden, so übergeben Sie damit auch gleich die Lizenzrechte an Facebook. Facebook kann damit alles machen. Zum Beispiel kann Facebook diese Bilder verkaufen oder ins Internet stellen, ja sogar als Plakat aufhängen, wo immer Facebook das tun möchte. Das gilt für alle Inhalte, die Sie hochladen. Also dürfen Sie unter keinen Umständen Inhalte hochladen, die irgendeiner Lizenz, ausser der public domain, unterworfen sind, da Sie sonst Facebook Rechte übergeben, die Sie gar nicht haben.<br>
-Die Nutzungsbedingungen von Facebook finden Sie [hier](https://www.facebook.com/legal/terms?locale=de_DE)<br>
+Die Nutzungsbedingungen von Facebook finden Sie [hier](https://www.facebook.com/legal/terms?locale=de_DE).<br>
 
 **Filme und Videos aus dem Internet herunterladen**<br>
 Wenn Sie Filme und Videos aus dem Internet herunterladen, dann tun Sie nichts Illegales, weil dieses Verhalten vom Artikel 19 des Urheberrechts gutgeheissen wird. Sie brauchen also keine Konsequenzen zu befürchten. Das Uploaden von Inhalten ins Netz, auch auf Tauschbörsen und mit Tauschprogrammen wie Bittorrent, uTorrent oder Vuze, ist aber illegal, weil Sie jemandem etwas geben, ohne es zu besitzen.<br>
