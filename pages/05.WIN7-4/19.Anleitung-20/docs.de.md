@@ -21,7 +21,7 @@ Ob Sie ausserdem ein Wort gross oder klein schreiben, ist egal. Auch wenn sie ''
 Sie können nach Dateien einer bestimmten Sorte suchen. Dazu geben Sie zusätzlich zu den Suchbegriffen *filetype:* und dann die Dateiendung (Posten 12) ohne Abstand ein. Wenn sie nur pdf-Dateien zum Thema der maximalen Arbeitszeit wollen, dann geben Sie also zum Beispiel folgende Suchbegriffe ein: ''gesetzestexte lehrvertrag maximale arbeitszeit -gewerkschaften filetype:pdf''.
 Sie können auch den Suchort einschränken, indem Sie den Begriff *site:* und anschliessend eine Webseite als Suchbegriff eingeben. Zum Beispiel: stundenplan *afp 5b" site:idm.ch*<br>
 Die Webseitensuche funktioniert auch, wenn Sie nur die Endung der Webseite eingeben. ÷sterreichisches Lehrvertragsrecht interessiert uns nicht. Mit dem Suchbegriff site:ch werden nur noch Seiten mit der Webseiten-Endung *.ch* angezeigt. Zum Beispiel:
-''gesetzestexte lehrvertrag maximale arbeitszeitì -gewerkschaften filetype:pdf site.ch''<br>
+''gesetzestexte lehrvertrag maximale arbeitszeit - gewerkschaften filetype:pdf site.ch''<br>
 **Suchmaschinen**<br>
 Es gibt sehr viele Suchmaschinen. Die oben genannten Suchfunktionen gelten für praktisch alle Suchmaschinen. Die mit einem Marktanteil von über 92% (2016) mit Abstand grösste Suchmaschine ist Google. Die zweitgrösste Suchmaschine ist Bing mit einem Marktanteil von knapp 3%.
 Jede Suchmaschine bietet Spezialfunktionen. Diese werden auch genau Beschrieben. Zum Beispiel finden Sie auf der Seite von Google die entsprechenden [Spezialfunktionen](https://www.google.com/intl/de_ALL/insidesearch/tipstricks/)<br>
