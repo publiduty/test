@@ -14,4 +14,4 @@ Die Stores der Betriebssysteme installieren die Programm automatisch am richtige
 !! **Auftrag:** Öffnen Sie den Explorer und suchen Sie den Ordner, in dem Programme gespeichert sind und auch alle Programme gespeichert werden sollen, die Sie zukünftig herunterladen. <br>
 Bei Windows sind die Programme in der Regel in folgendem Ordner gespeichert -> C:\Program File oder C:\Programme. <br>
 
-!! **Auftrag:** Sehen Sie sich folgenden [Video](https://www.youtube.com/watch?v=Gogb3s6YU4I) an, um zu lernen, wie Programme aus dem Store installiert werden. Sehen Sie sich diesen [Video](https://www.youtube.com/watch?v=aQ2xRfsfqro) an, um zu lernen, wie Programme aus dem Store deinstalliert werden.<br>
+!! **Auftrag:** Sehen Sie sich folgendes [Video](https://www.youtube.com/watch?v=Gogb3s6YU4I) an, um zu lernen, wie Programme aus dem Store installiert werden. Sehen Sie sich dieses [Video](https://www.youtube.com/watch?v=aQ2xRfsfqro) an, um zu lernen, wie Programme aus dem Store deinstalliert werden.<br>
