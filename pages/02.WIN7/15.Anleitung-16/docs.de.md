@@ -17,8 +17,5 @@ Windows 7, Windows 8 und Mac OS X haben Backup-Programme ins Betriebssystem inte
 !! **Auftrag:** Lernen Sie in diesem [Video](https://www.youtube.com/watch?v=JQbwkV72Y88), wie Sie das Backup einschalten können. Richten Sie anschliessend das Backup-Programm auf Ihrem eigenen Gerät ein! Rufen Sie anschliessend die Lehrperson zu sich und demonstrieren Sie das Backup!<br>
 
 **Zusätzliche Backup-Programme**<br>
-Integrierte Backup-Programme können einige Dinge nicht, zum Beispiel den Inhalt eines bestimmten USB-Sticks automatisch und regelmässig sichern. Dafür gibt es verschiedene Gratisprogramme. Für Windows ist *Personal Backup* 5ë für alle Versionen ein taugliches Programm. Für Mac OS X gibt es das Programm *SyncTwoFolders*.<br><br>
-
-
-
+Integrierte Backup-Programme können einige Dinge nicht, zum Beispiel den Inhalt eines bestimmten USB-Sticks automatisch und regelmässig sichern. Dafür gibt es verschiedene Gratisprogramme. Für Windows ist [Personal Backup](http://personal-backup.rathlev-home.de) für alle Versionen ein taugliches Programm. Für Mac OS X gibt es das Programm [SyncTwoFolders](https://synctwofolders.en.softonic.com/mac).<br><br>
 
