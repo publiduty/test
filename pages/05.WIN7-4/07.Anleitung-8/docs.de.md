@@ -23,7 +23,6 @@ Die Kantonspolizei Zürich bietet eine detaillierte Auswertung von Passwörtern 
 Viele Webseiten und Programme verlangen ein Login. Wenn Sie überall die gleichen Passwörter und Logins benutzen, dann kann beispielsweise ein Mitarbeiter von Google auch Ihren Hotmail-Account anschauen. Das wollen Sie wahrscheinlich nicht. Darum ist es sinnvoll, die Passwörter für jeden Account neu zu wählen. Um kein Durcheinander zu bekommen, kann man sich wiederum an ein System anlehnen. Beispielsweise können Sie am Schluss des Passworts jeweils den ersten und den dritten Buchstaben des Domainnamens eingeben. Wenn Sie also nun bei gmx.ch ein Passwort für den Mailaccount generieren und das mit Nachbartasten und Sonderzeichen aufgemotzte Passwort Drosselklappe einsetzen wollen, dann wird daraus Seiaawkjk$oow(/)gx. Das gleiche Passwort bei Facebook: Seiaawkjk$oow(/)fc.<br>
 Zudem können Sie die Passwörter natürlich auch notieren, aber nie auf Papier. Eine gute Möglichkeit für Passwortnotizen ist ein Word-Dokument zu verschlüsseln. Das lernen Sie bei einem späteren Posten.
 
-Quellen: [pcwelt.de](https://www.pcwelt.de), angepasst, gekürzt und erweitert von Hannes Trachsler / Andreas de Bruin
-
+Quellen: [pcwelt.de](https://www.pcwelt.de), angepasst, gekürzt und erweitert von Hannes Trachsler
 
 
