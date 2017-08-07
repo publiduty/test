@@ -22,7 +22,7 @@ Auf jeder Postenseite finden Sie farbig gekennzeichnete Abschnitte:
  
 !!! **Ziel:** Hier erfahren Sie, was das Ziel dieses Postens ist. Wenn Sie den Text genau lesen, bevor Sie den Posten bearbeiten, werden Sie effizienter arbeiten!
 
-!! **Auftrag:** Hier erhalten Sie einen Auftrage zum gelesenen.<br>z.B.: Wählen Sie nun Ihr Betriebssystem in der Navigation auf der linken Seite und beginnen Sie mit der Werkstatt!
+!! **Auftrag:** Hier erhalten Sie einen Auftrag zum gelesenen.<br>z.B.: Wählen Sie nun Ihr Betriebssystem in der Navigation auf der linken Seite und beginnen Sie mit der Werkstatt!
 
 
 
