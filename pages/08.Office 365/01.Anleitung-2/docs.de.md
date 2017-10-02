@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-!!! **Ziel:** Sie kennen die Grundlegende Funktionsweise von Office 365.
+!!! **Ziel:** Sie kennen die grundlegende Funktionsweise von Office 365.
 
 **Wie funktioniert Office 365?**<br>
 Früher hat man Programme meistens lokal auf dem Computer installiert. Mit der Entwicklung des Internets werden nun die meisten Programme auch online zur Verfügung gestellt.<br>
